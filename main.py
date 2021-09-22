@@ -128,17 +128,23 @@ def scrape(session, seller_slug, ecom="tiki"):
     else:
         raise ValueError(ecom)
     with open(
-        f"exports/2[{ecom}]__[{seller_slug}]__[{NOW.strftime('%Y-%m-%d')}].json", "w"
+        f"exports/[{ecom}]__[{seller_slug}]__[{NOW.strftime('%Y-%m-%d')}].json", "w"
     ) as f:
         json.dump(
-            [add_date_scraped(i) for i in transform(scraper(session, seller_slug))], f
+            [add_date_scraped(i) for i in transform(scraper(session, seller_slug))],
+            f,
+            indent=4,
         )
 
 
 def main():
-    sellers_scrape = {
+    sellers = {
         "tiki": [
             "vua-nem-official-store",
+            "ru9-the-sleep-company",
+            "zinus-official-store",
+            "nem-gia-kho",
+            "dem-ha-noi",
         ],
         # "lazada": [
         #     "zinus-official-store",
@@ -147,7 +153,7 @@ def main():
     with requests.Session() as session:
         [
             scrape(session, seller_slug, ecom)
-            for ecom, seller in sellers_scrape.items()
+            for ecom, seller in sellers.items()
             for seller_slug in seller
         ]
 
