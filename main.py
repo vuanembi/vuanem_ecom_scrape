@@ -5,16 +5,15 @@ from fake_useragent import UserAgent
 
 
 def scrape_tiki(seller_slug, page=1):
-    params = {
-        "limit": 50,
-        "page": page,
-    }
-    headers = {"User-Agent": UserAgent().firefox}
-    url = f"https://api.tiki.vn/v2/seller/stores/{seller_slug}/products"
     with requests.get(
-        url,
-        params=params,
-        headers=headers,
+        f"https://api.tiki.vn/v2/seller/stores/{seller_slug}/products",
+        params={
+            "limit": 50,
+            "page": page,
+        },
+        headers={
+            "User-Agent": UserAgent().firefox,
+        },
     ) as r:
         res = r.json()
     data = res["data"]
@@ -50,6 +49,7 @@ def transform_tiki(rows):
         for row in rows
     ]
 
-with open('tiki.json', 'w') as f:
+
+with open("tiki.json", "w") as f:
     data = transform_tiki(scrape_tiki("vua-nem-official-store"))
     json.dump(data, f)
