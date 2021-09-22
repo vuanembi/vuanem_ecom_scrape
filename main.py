@@ -1,23 +1,28 @@
 import json
+from datetime import datetime
+import time
 
 import requests
 from fake_useragent import UserAgent
 
+NOW = datetime.utcnow()
 
-def scrape_tiki(seller_slug, page=1):
-    with requests.get(
+
+def scraper_tiki(session, seller_slug, page=1):
+    with session.get(
         f"https://api.tiki.vn/v2/seller/stores/{seller_slug}/products",
         params={
             "limit": 50,
             "page": page,
         },
         headers={
+            "Accept": "application/json",
             "User-Agent": UserAgent().firefox,
         },
     ) as r:
         res = r.json()
     data = res["data"]
-    return data + scrape_tiki(seller_slug, page + 1) if data else []
+    return data + scraper_tiki(session, seller_slug, page + 1) if data else []
 
 
 def transform_tiki(rows):
@@ -50,6 +55,101 @@ def transform_tiki(rows):
     ]
 
 
-with open("tiki.json", "w") as f:
-    data = transform_tiki(scrape_tiki("vua-nem-official-store"))
-    json.dump(data, f)
+def scraper_lazada(session, seller_slug, page=1):
+    with session.get(
+        f"https://www.lazada.vn/{seller_slug}/",
+        params={
+            "ajax": json.dumps(True),
+            "from": "wangpu",
+            "lang": "vi",
+            "langFlag": "vi",
+            "pageTypeId": 2,
+            "q": "All-Products",
+            "page": page,
+        },
+        headers={
+            "Accept": "application/json",
+            "X-Requested-With": "XMLHttpRequest",
+            "User-Agent": UserAgent().chrome,
+        },
+    ) as r:
+        res = r.json()
+    data = res["mods"].get("listItems")
+    time.sleep(10)
+    return data + scraper_lazada(session, seller_slug, page + 1) if data else []
+
+
+def transform_lazada(rows):
+    return [
+        {
+            "name": row["name"],
+            "nid": row["nid"],
+            "productUrl": row["productUrl"],
+            "image": row.get("image"),
+            "originalPrice": row.get("originalPrice"),
+            "originalPriceShow": row.get("originalPriceShow"),
+            "price": row.get("price"),
+            "promotionId": row.get("promotionId"),
+            "priceShow": row.get("priceShow"),
+            "discount": row.get("discount"),
+            "ratingScore": row.get("ratingScore"),
+            "review": row.get("review"),
+            "installment": row.get("installment"),
+            "tItemType": row.get("tItemType"),
+            "location": row.get("location"),
+            "cheapest_sku": row.get("cheapest_sku"),
+            "sku": row.get("sku"),
+            "brandId": row.get("brandId"),
+            "brandName": row.get("brandName"),
+            "sellerId": row.get("sellerId"),
+            "mainSellerId": row.get("mainSellerId"),
+            "sellerName": row.get("sellerName"),
+            "itemId": row.get("itemId"),
+            "skuId": row.get("skuId"),
+            "inStock": row.get("inStock"),
+            "isAD": row.get("isAD"),
+            "addToCart": row.get("addToCart"),
+        }
+        for row in rows
+    ]
+
+
+def scrape(session, seller_slug, ecom="tiki"):
+    add_date_scraped = lambda x: {
+        **x,
+        "_batched_at": NOW.isoformat(timespec="seconds"),
+    }
+    if ecom == "tiki":
+        scraper = scraper_tiki
+        transform = transform_tiki
+    elif ecom == "lazada":
+        scraper = scraper_lazada
+        transform = transform_lazada
+    else:
+        raise ValueError(ecom)
+    with open(
+        f"exports/2[{ecom}]__[{seller_slug}]__[{NOW.strftime('%Y-%m-%d')}].json", "w"
+    ) as f:
+        json.dump(
+            [add_date_scraped(i) for i in transform(scraper(session, seller_slug))], f
+        )
+
+
+def main():
+    sellers_scrape = {
+        "tiki": [
+            "vua-nem-official-store",
+        ],
+        # "lazada": [
+        #     "zinus-official-store",
+        # ],
+    }
+    with requests.Session() as session:
+        [
+            scrape(session, seller_slug, ecom)
+            for ecom, seller in sellers_scrape.items()
+            for seller_slug in seller
+        ]
+
+
+main()
