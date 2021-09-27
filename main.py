@@ -1,117 +1,61 @@
 import json
 from datetime import datetime
-import time
 
 import requests
 from fake_useragent import UserAgent
 
 NOW = datetime.utcnow()
 
+HEADERS = {
+    "Accept": "application/json",
+    "User-Agent": UserAgent().firefox,
+}
 
-def scraper_tiki(session, seller_slug, page=1):
+
+def get_products(session, seller_slug, page=1):
     with session.get(
         f"https://api.tiki.vn/v2/seller/stores/{seller_slug}/products",
         params={
             "limit": 50,
             "page": page,
         },
-        headers={
-            "Accept": "application/json",
-            "User-Agent": UserAgent().firefox,
-        },
+        headers=HEADERS,
     ) as r:
         res = r.json()
     data = res["data"]
-    return data + scraper_tiki(session, seller_slug, page + 1) if data else []
+    return data + get_products(session, seller_slug, page + 1) if data else []
 
 
-def transform_tiki(rows):
-    return [
-        {
-            "id": row["id"],
-            "sku": row["sku"],
-            "name": row["name"],
-            "url_key": row["url_key"],
-            "url_path": row["url_path"],
-            "price": row.get("price"),
-            "list_price": row.get("list_price"),
-            "price_usd": row.get("price_usd"),
-            "discount": row.get("discount"),
-            "discount_rate": row.get("discount_rate"),
-            "rating_average": row.get("rating_average"),
-            "review_count": row.get("review_count"),
-            "order_count": row.get("order_count"),
-            "favourite_count": row.get("favourite_count"),
-            "inventory_status": row.get("inventory_status"),
-            "is_visible": row.get("is_visible"),
-            "productset_group_name": row.get("productset_group_name"),
-            "seller": row.get("seller"),
-            "seller_product_id": row.get("seller_product_id"),
-            "sp_seller_id": row.get("sp_seller_id"),
-            "sp_seller_name": row.get("sp_seller_name"),
-            "installment_info": row.get("installment_info"),
-        }
-        for row in rows
-    ]
-
-
-def scraper_lazada(session, seller_slug, page=1):
+def get_product_variants(session, id):
     with session.get(
-        f"https://www.lazada.vn/{seller_slug}/",
-        params={
-            "ajax": json.dumps(True),
-            "from": "wangpu",
-            "lang": "vi",
-            "langFlag": "vi",
-            "pageTypeId": 2,
-            "q": "All-Products",
-            "page": page,
-        },
-        headers={
-            "Accept": "application/json",
-            "X-Requested-With": "XMLHttpRequest",
-            "User-Agent": UserAgent().chrome,
-        },
+        f"https://tiki.vn/api/v2/products/{id}",
+        params={"platform": "web", "spid": "114976771"},
+        headers=HEADERS,
     ) as r:
         res = r.json()
-    data = res["mods"].get("listItems")
-    time.sleep(10)
-    return data + scraper_lazada(session, seller_slug, page + 1) if data else []
-
-
-def transform_lazada(rows):
-    return [
-        {
-            "name": row["name"],
-            "nid": row["nid"],
-            "productUrl": row["productUrl"],
-            "image": row.get("image"),
-            "originalPrice": row.get("originalPrice"),
-            "originalPriceShow": row.get("originalPriceShow"),
-            "price": row.get("price"),
-            "promotionId": row.get("promotionId"),
-            "priceShow": row.get("priceShow"),
-            "discount": row.get("discount"),
-            "ratingScore": row.get("ratingScore"),
-            "review": row.get("review"),
-            "installment": row.get("installment"),
-            "tItemType": row.get("tItemType"),
-            "location": row.get("location"),
-            "cheapest_sku": row.get("cheapest_sku"),
-            "sku": row.get("sku"),
-            "brandId": row.get("brandId"),
-            "brandName": row.get("brandName"),
-            "sellerId": row.get("sellerId"),
-            "mainSellerId": row.get("mainSellerId"),
-            "sellerName": row.get("sellerName"),
-            "itemId": row.get("itemId"),
-            "skuId": row.get("skuId"),
-            "inStock": row.get("inStock"),
-            "isAD": row.get("isAD"),
-            "addToCart": row.get("addToCart"),
-        }
-        for row in rows
-    ]
+    return {
+        "id": res["id"],
+        "sku": res["sku"],
+        "name": res["name"],
+        "url_key": res["url_key"],
+        "price": res["price"],
+        "list_price": res["list_price"],
+        "original_price": res["original_price"],
+        "discount": res["discount"],
+        "discount_rate": res["discount_rate"],
+        "configurable_products": [
+            {
+                "child_id": config_product.get("child_id"),
+                "id": config_product["id"],
+                "option1": config_product.get("option1"),
+                "option2": config_product.get("option2"),
+                "price": config_product["price"],
+            }
+            for config_product in res.get("configurable_products")
+        ]
+        if res.get("configurable_products", [])
+        else [],
+    }
 
 
 def scrape(session, seller_slug, ecom="tiki"):
@@ -119,19 +63,14 @@ def scrape(session, seller_slug, ecom="tiki"):
         **x,
         "_batched_at": NOW.isoformat(timespec="seconds"),
     }
-    if ecom == "tiki":
-        scraper = scraper_tiki
-        transform = transform_tiki
-    elif ecom == "lazada":
-        scraper = scraper_lazada
-        transform = transform_lazada
-    else:
-        raise ValueError(ecom)
+    products = get_products(session, seller_slug)
+    product_ids = [i["id"] for i in products]
+    product_variants = [get_product_variants(session, id) for id in product_ids]
     with open(
         f"exports/[{ecom}]__[{seller_slug}]__[{NOW.strftime('%Y-%m-%d')}].json", "w"
     ) as f:
         json.dump(
-            [add_date_scraped(i) for i in transform(scraper(session, seller_slug))],
+            [add_date_scraped(i) for i in product_variants],
             f,
             indent=4,
         )
@@ -145,10 +84,7 @@ def main():
             "zinus-official-store",
             "nem-gia-kho",
             "dem-ha-noi",
-        ],
-        # "lazada": [
-        #     "zinus-official-store",
-        # ],
+        ]
     }
     with requests.Session() as session:
         [

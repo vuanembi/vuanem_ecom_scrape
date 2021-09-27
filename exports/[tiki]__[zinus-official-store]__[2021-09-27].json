@@ -1,0 +1,720 @@
+[
+    {
+        "id": 74036862,
+        "sku": "8209381596306",
+        "name": "Gi\u01b0\u1eddng s\u1eaft x\u1ebfp th\u00f4ng minh Zinus Smart Base",
+        "url_key": "giuong-sat-xep-thong-minh-zinus-smart-base-p74036862",
+        "price": 1990000,
+        "list_price": 2656000,
+        "original_price": 2656000,
+        "discount": 666000,
+        "discount_rate": 25,
+        "configurable_products": [
+            {
+                "child_id": 74036867,
+                "id": 74036868,
+                "option1": "200*180*35",
+                "option2": null,
+                "price": 2886000
+            },
+            {
+                "child_id": 74036865,
+                "id": 74036866,
+                "option1": "200*160*35",
+                "option2": null,
+                "price": 1990000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74923715,
+        "sku": "4342396082717",
+        "name": "G\u1ed0I T\u1ef0A ZINUS WEDGE MEMORY FOAM  ",
+        "url_key": "goi-tua-zinus-wedge-memory-foam-p74923715",
+        "price": 930000,
+        "list_price": 1375000,
+        "original_price": 1375000,
+        "discount": 445000,
+        "discount_rate": 32,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 58342537,
+        "sku": "2104410654032",
+        "name": "N\u1ec7m foam cu\u1ed9n h\u00fat ch\u00e2n kh\u00f4ng cao c\u1ea5p Zinus - Memory Foam Mattress 25cm ",
+        "url_key": "nem-foam-cuon-hut-chan-khong-cao-cap-zinus-memory-foam-mattress-25cm-p58342537",
+        "price": 4750000,
+        "list_price": 7919000,
+        "original_price": 7919000,
+        "discount": 3169000,
+        "discount_rate": 40,
+        "configurable_products": [
+            {
+                "child_id": 58621233,
+                "id": 58621234,
+                "option1": "180x200x25cm",
+                "option2": null,
+                "price": 8856000
+            },
+            {
+                "child_id": 58621231,
+                "id": 58621232,
+                "option1": "160x200x25cm",
+                "option2": null,
+                "price": 4750000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 80144845,
+        "sku": "7125529326309",
+        "name": "Gi\u01b0\u1eddng Ng\u1ee7 Zinus G\u1ed7 T\u1ef1 Nhi\u00ean Cao C\u1ea5p V\u00e0 Sang Tr\u1ecdng Farmhouse Wood Platform Bed",
+        "url_key": "giuong-ngu-zinus-go-tu-nhien-cao-cap-va-sang-trong-farmhouse-wood-platform-bed-p80144845",
+        "price": 4750000,
+        "list_price": 7925000,
+        "original_price": 7925000,
+        "discount": 3175000,
+        "discount_rate": 40,
+        "configurable_products": [
+            {
+                "child_id": 80144852,
+                "id": 80144853,
+                "option1": "1m8 x 2m x 12cm",
+                "option2": null,
+                "price": 5250000
+            },
+            {
+                "child_id": 80144846,
+                "id": 80144849,
+                "option1": "1m6 x 2m x 12cm",
+                "option2": null,
+                "price": 4750000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 58374586,
+        "sku": "1659252814201",
+        "name": "N\u1ec7m l\u00f2 xo t\u00fai h\u00fat ch\u00e2n kh\u00f4ng cao c\u1ea5p Zinus - Extra Firm Spring Mattress 25cm",
+        "url_key": "nem-lo-xo-tui-hut-chan-khong-cao-cap-zinus-extra-firm-spring-mattress-25cm-p58374586",
+        "price": 7056000,
+        "list_price": 7056000,
+        "original_price": 7056000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 58621688,
+                "id": 58621689,
+                "option1": "160x200x25cm",
+                "option2": null,
+                "price": 7056000
+            },
+            {
+                "child_id": 58621690,
+                "id": 58621691,
+                "option1": "180x200x25cm",
+                "option2": null,
+                "price": 7972000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74036766,
+        "sku": "1946121970404",
+        "name": "N\u1ec7m Gel M\u00e1t G\u1ea5p 3 Zinus Tri-Fold Mattress",
+        "url_key": "nem-gel-mat-gap-3-zinus-tri-fold-mattress-p74036766",
+        "price": 2720000,
+        "list_price": 3632000,
+        "original_price": 3632000,
+        "discount": 912000,
+        "discount_rate": 25,
+        "configurable_products": [
+            {
+                "child_id": 74036769,
+                "id": 74036770,
+                "option1": "200*160*7.5",
+                "option2": null,
+                "price": 2720000
+            },
+            {
+                "child_id": 74036771,
+                "id": 74036772,
+                "option1": "200*180*7.5",
+                "option2": null,
+                "price": 3050000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 80040337,
+        "sku": "6896905460178",
+        "name": "Gi\u01b0\u1eddng Ng\u1ee7 Zinus G\u1ed7 T\u1ef1 Nhi\u00ean Vi\u1ec1n Khung S\u1eaft Cao C\u1ea5p V\u00e0 T\u1ed1i Gi\u1ea3n Ironline Hybrid Frame",
+        "url_key": "giuong-ngu-zinus-go-tu-nhien-vien-khung-sat-cao-cap-va-toi-gian-ironline-hybrid-frame-p80040337",
+        "price": 4850000,
+        "list_price": 8084000,
+        "original_price": 8084000,
+        "discount": 3234000,
+        "discount_rate": 40,
+        "configurable_products": [
+            {
+                "child_id": 80040365,
+                "id": 80040379,
+                "option1": "1m6 x 2m x 14cm",
+                "option2": null,
+                "price": 6913000
+            },
+            {
+                "child_id": 80040396,
+                "id": 80040421,
+                "option1": "1m8 x 2m x 14cm",
+                "option2": null,
+                "price": 4850000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 58374613,
+        "sku": "5472212245770",
+        "name": "N\u1ec7m l\u00f2 xo t\u00fai h\u00fat ch\u00e2n kh\u00f4ng cao c\u1ea5p Zinus - Extra Firm Spring Mattress 30cm",
+        "url_key": "nem-lo-xo-tui-hut-chan-khong-cao-cap-zinus-extra-firm-spring-mattress-30cm-p58374613",
+        "price": 7879000,
+        "list_price": 7879000,
+        "original_price": 7879000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 58621225,
+                "id": 58621226,
+                "option1": "160x200x30cm",
+                "option2": null,
+                "price": 7879000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 80143378,
+        "sku": "3744919642322",
+        "name": "Gi\u01b0\u1eddng Ng\u1ee7 Zinus G\u1ed7 T\u1ef1 Nhi\u00ean Sang Tr\u1ecdng Aimee Wood Platform Bed Frame",
+        "url_key": "giuong-ngu-zinus-go-tu-nhien-sang-trong-aimee-wood-platform-bed-frame-p80143378",
+        "price": 8500000,
+        "list_price": 8500000,
+        "original_price": 8500000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 80143379,
+                "id": 80143380,
+                "option1": "1m6 x 2m x 12cm",
+                "option2": null,
+                "price": 8500000
+            },
+            {
+                "child_id": 80143381,
+                "id": 80143382,
+                "option1": "1m8 x 2m x 12cm",
+                "option2": null,
+                "price": 8908000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74036773,
+        "sku": "2946563567322",
+        "name": "N\u1ec7m foam cu\u1ed9n h\u00fat ch\u00e2n kh\u00f4ng cao c\u1ea5p Zinus - Memory Foam Mattress",
+        "url_key": "nem-foam-cuon-hut-chan-khong-cao-cap-zinus-memory-foam-mattress-p74036773",
+        "price": 5611000,
+        "list_price": 5611000,
+        "original_price": 5611000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 74036778,
+                "id": 74036779,
+                "option1": "200*180*20",
+                "option2": null,
+                "price": 6790000
+            },
+            {
+                "child_id": 74036776,
+                "id": 74036777,
+                "option1": "200*160*20",
+                "option2": null,
+                "price": 6031000
+            },
+            {
+                "child_id": 74036774,
+                "id": 74036775,
+                "option1": "200*120*20",
+                "option2": null,
+                "price": 5611000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 80136359,
+        "sku": "2983323847925",
+        "name": "Gi\u01b0\u1eddng Ng\u1ee7 Zinus G\u1ed7 T\u1ef1 Nhi\u00ean Sang Tr\u1ecdng Deluxe Solid Wood",
+        "url_key": "giuong-ngu-zinus-go-tu-nhien-sang-trong-deluxe-solid-wood-p80136359",
+        "price": 4710000,
+        "list_price": 7853000,
+        "original_price": 7853000,
+        "discount": 3143000,
+        "discount_rate": 40,
+        "configurable_products": [
+            {
+                "child_id": 80136369,
+                "id": 80136386,
+                "option1": "1m6 x 2m x 12cm",
+                "option2": null,
+                "price": 7445000
+            },
+            {
+                "child_id": 80136401,
+                "id": 80136409,
+                "option1": "1m8 x 2m x 12cm",
+                "option2": null,
+                "price": 4710000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 58342568,
+        "sku": "5160686803854",
+        "name": "N\u1ec7m foam cu\u1ed9n h\u00fat ch\u00e2n kh\u00f4ng Gel M\u00e1t cao c\u1ea5p Zinus - Gel-Infused Foam Mattress 25cm",
+        "url_key": "nem-foam-cuon-hut-chan-khong-gel-mat-cao-cap-zinus-gel-infused-foam-mattress-25cm-p58342568",
+        "price": 5910000,
+        "list_price": 7890000,
+        "original_price": 7890000,
+        "discount": 1980000,
+        "discount_rate": 25,
+        "configurable_products": [
+            {
+                "child_id": 58698416,
+                "id": 58698417,
+                "option1": "180x200x25cm",
+                "option2": null,
+                "price": 6650000
+            },
+            {
+                "child_id": 58698414,
+                "id": 58698415,
+                "option1": "160x200x25cm",
+                "option2": null,
+                "price": 5910000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 58374593,
+        "sku": "7949961070871",
+        "name": "N\u1ec7m foam cu\u1ed9n h\u00fat ch\u00e2n kh\u00f4ng than ho\u1ea1t t\u00ednh cao c\u1ea5p Zinus - Charcoal Foam Mattress ",
+        "url_key": "nem-foam-cuon-hut-chan-khong-than-hoat-tinh-cao-cap-zinus-charcoal-foam-mattress-p58374593",
+        "price": 6710000,
+        "list_price": 7898000,
+        "original_price": 7898000,
+        "discount": 1188000,
+        "discount_rate": 15,
+        "configurable_products": [
+            {
+                "child_id": 58929116,
+                "id": 58929117,
+                "option1": "160x200x25cm",
+                "option2": null,
+                "price": 6710000
+            },
+            {
+                "child_id": 58929118,
+                "id": 58929119,
+                "option1": "180x200x25cm",
+                "option2": null,
+                "price": 7530000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74923585,
+        "sku": "3987165977415",
+        "name": "G\u1ed0I ZINUS CONTOUR MEMORY FOAM PILLOW",
+        "url_key": "goi-zinus-contour-memory-foam-pillow-p74923585",
+        "price": 330000,
+        "list_price": 478000,
+        "original_price": 478000,
+        "discount": 148000,
+        "discount_rate": 31,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 95160676,
+        "sku": "2107672019695",
+        "name": "N\u1ec7m L\u00f2 Xo Cao Su Li\u00ean K\u1ebft Zinus 18cm Bonnel Mattress",
+        "url_key": "nem-lo-xo-cao-su-lien-ket-zinus-18cm-bonnel-mattress-p95160676",
+        "price": 2720000,
+        "list_price": 4190000,
+        "original_price": 4190000,
+        "discount": 1470000,
+        "discount_rate": 35,
+        "configurable_products": [
+            {
+                "child_id": 95160680,
+                "id": 95160681,
+                "option1": "Queen 160x200x18cm",
+                "option2": null,
+                "price": 2720000
+            },
+            {
+                "child_id": 95160677,
+                "id": 95160679,
+                "option1": "King 180x200x18cm",
+                "option2": null,
+                "price": 3240000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 72610164,
+        "sku": "1504168617227",
+        "name": "Topper T\u1ea5m Ti\u1ec7n Nghi L\u00e0m M\u1ec1m N\u1ec7m 3D Tho\u00e1ng M\u00e1t Cao C\u1ea5p Zinus - Swirl Gel Memory Foam Air Flow Topper with Cover 180x200*7.5cm",
+        "url_key": "topper-tam-tien-nghi-lam-mem-nem-3d-thoang-mat-cao-cap-zinus-swirl-gel-memory-foam-air-flow-topper-with-cover-180x200-7-5cm-p72610164",
+        "price": 2660000,
+        "list_price": 3552000,
+        "original_price": 3552000,
+        "discount": 892000,
+        "discount_rate": 25,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 72610038,
+        "sku": "8747528740255",
+        "name": "Topper T\u1ea5m Ti\u1ec7n Nghi L\u00e0m M\u1ec1m N\u1ec7m Gel M\u00e1t Cao C\u1ea5p Zinus - Gel Memory Foam Mattress Topper with Cover 180x200*7.5cm",
+        "url_key": "topper-tam-tien-nghi-lam-mem-nem-gel-mat-cao-cap-zinus-gel-memory-foam-mattress-topper-with-cover-180x200-7-5cm-p72610038",
+        "price": 2700000,
+        "list_price": 3607000,
+        "original_price": 3607000,
+        "discount": 907000,
+        "discount_rate": 25,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74923624,
+        "sku": "7380187359485",
+        "name": "G\u1ed0I ZINUS SHREDDED MEMORY FOAM",
+        "url_key": "goi-zinus-shredded-memory-foam-p74923624",
+        "price": 310000,
+        "list_price": 441000,
+        "original_price": 441000,
+        "discount": 131000,
+        "discount_rate": 30,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74923535,
+        "sku": "2509461761652",
+        "name": "G\u1ed0I 2 M\u1eb6T ZINUS - DUAL SIDE MEMORY FOAM PILLOW",
+        "url_key": "goi-2-mat-zinus-dual-side-memory-foam-pillow-p74923535",
+        "price": 400000,
+        "list_price": 582000,
+        "original_price": 582000,
+        "discount": 182000,
+        "discount_rate": 31,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 72606809,
+        "sku": "9267804310563",
+        "name": "Topper T\u1ea5m Ti\u1ec7n Nghi L\u00e0m M\u1ec1m N\u1ec7m Gel M\u00e1t Cao C\u1ea5p Zinus - Gel Memory Foam Mattress Topper with Cover 160x200*7.5cm",
+        "url_key": "topper-tam-tien-nghi-lam-mem-nem-gel-mat-cao-cap-zinus-gel-memory-foam-mattress-topper-with-cover-160x200-7-5cm-p72606809",
+        "price": 2420000,
+        "list_price": 3234000,
+        "original_price": 3234000,
+        "discount": 814000,
+        "discount_rate": 25,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 72610158,
+        "sku": "8113690683254",
+        "name": "Topper T\u1ea5m Ti\u1ec7n Nghi L\u00e0m M\u1ec1m N\u1ec7m 3D Tho\u00e1ng M\u00e1t Cao C\u1ea5p Zinus - Swirl Gel Memory Foam Air Flow Topper with Cover 160x200*7.5cm",
+        "url_key": "topper-tam-tien-nghi-lam-mem-nem-3d-thoang-mat-cao-cap-zinus-swirl-gel-memory-foam-air-flow-topper-with-cover-160x200-7-5cm-p72610158",
+        "price": 2919000,
+        "list_price": 2919000,
+        "original_price": 2919000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 108852402,
+        "sku": "3423335762757",
+        "name": "N\u1ec7m Foam Zinus Cu\u1ed9n H\u00fat Ch\u00e2n Kh\u00f4ng Si\u00eau M\u00e1t Cao C\u1ea5p - 8in Ultra Cool Gel 2.5 Foam Mattress",
+        "url_key": "nem-foam-zinus-cuon-hut-chan-khong-sieu-mat-cao-cap-8in-ultra-cool-gel-2-5-foam-mattress-p108852402",
+        "price": 9780000,
+        "list_price": 11540000,
+        "original_price": 11540000,
+        "discount": 1760000,
+        "discount_rate": 15,
+        "configurable_products": [
+            {
+                "child_id": 108852403,
+                "id": 108852404,
+                "option1": "160*200*20cm",
+                "option2": null,
+                "price": 10005000
+            },
+            {
+                "child_id": 108852405,
+                "id": 108852406,
+                "option1": "180*200*20cm",
+                "option2": null,
+                "price": 9780000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74036780,
+        "sku": "4294188747840",
+        "name": "N\u1ec7m l\u00f2 xo t\u00fai h\u00fat ch\u00e2n kh\u00f4ng h\u1ed7 tr\u1ee3 tr\u1ecb li\u1ec7u cao c\u1ea5p Zinus - 12in iCoil Premium Spring Mattress",
+        "url_key": "nem-lo-xo-tui-hut-chan-khong-ho-tro-tri-lieu-cao-cap-zinus-12in-icoil-premium-spring-mattress-p74036780",
+        "price": 5820000,
+        "list_price": 5821650,
+        "original_price": 5821650,
+        "discount": 1650,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 74036781,
+                "id": 74036782,
+                "option1": "200*120*30",
+                "option2": null,
+                "price": 5820000
+            },
+            {
+                "child_id": 74036783,
+                "id": 74036784,
+                "option1": "200*160*30",
+                "option2": null,
+                "price": 6710000
+            },
+            {
+                "child_id": 74036785,
+                "id": 74036786,
+                "option1": "200*180*30",
+                "option2": null,
+                "price": 7570000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 58374603,
+        "sku": "7927176692002",
+        "name": "N\u1ec7m l\u00f2 xo t\u00fai h\u00fat ch\u00e2n kh\u00f4ng cao c\u1ea5p Gel m\u00e1t Zinus - Gel-Infused Memory Foam Hybrid Spring Mattress 30cm",
+        "url_key": "nem-lo-xo-tui-hut-chan-khong-cao-cap-gel-mat-zinus-gel-infused-memory-foam-hybrid-spring-mattress-30cm-p58374603",
+        "price": 8050000,
+        "list_price": 10736000,
+        "original_price": 10736000,
+        "discount": 2686000,
+        "discount_rate": 25,
+        "configurable_products": [
+            {
+                "child_id": 58717127,
+                "id": 58717128,
+                "option1": "160x200x30cm",
+                "option2": null,
+                "price": 8050000
+            },
+            {
+                "child_id": 58717129,
+                "id": 58717130,
+                "option1": "180x200x30cm",
+                "option2": null,
+                "price": 8950000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 72524993,
+        "sku": "3848156918421",
+        "name": "Topper T\u1ea5m Ti\u1ec7n Nghi Tr\u00e0 Xanh Gel M\u00e1t L\u00e0m M\u1ec1m N\u1ec7m Cao C\u1ea5p Zinus - Green Tea Memory Foam 160*200*7.5cm",
+        "url_key": "topper-tam-tien-nghi-tra-xanh-gel-mat-lam-mem-nem-cao-cap-zinus-green-tea-memory-foam-160-200-7-5cm-p72524993",
+        "price": 2100000,
+        "list_price": 2801000,
+        "original_price": 2801000,
+        "discount": 701000,
+        "discount_rate": 25,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74036795,
+        "sku": "1170548638559",
+        "name": "N\u1ec7m foam cu\u1ed9n h\u00fat ch\u00e2n kh\u00f4ng gi\u1ea3m \u00e1p cao c\u1ea5p Zinus - 10in Pressure Relief Foam Matress",
+        "url_key": "nem-foam-cuon-hut-chan-khong-giam-ap-cao-cap-zinus-10in-pressure-relief-foam-matress-p74036795",
+        "price": 7240000,
+        "list_price": 7671000,
+        "original_price": 7671000,
+        "discount": 431000,
+        "discount_rate": 6,
+        "configurable_products": [
+            {
+                "child_id": 74036798,
+                "id": 74036799,
+                "option1": "200*160*25",
+                "option2": null,
+                "price": 7240000
+            },
+            {
+                "child_id": 74036800,
+                "id": 74036801,
+                "option1": "200*180*25",
+                "option2": null,
+                "price": 8591000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74036759,
+        "sku": "9898516803878",
+        "name": "N\u1ec7m l\u00f2 xo t\u00fai h\u00fat ch\u00e2n kh\u00f4ng cao c\u1ea5p, tinh ch\u1ea5t Tr\u00e0 Xanh Zinus",
+        "url_key": "nem-lo-xo-tui-hut-chan-khong-cao-cap-tinh-chat-tra-xanh-zinus-p74036759",
+        "price": 9710000,
+        "list_price": 10282000,
+        "original_price": 10282000,
+        "discount": 572000,
+        "discount_rate": 6,
+        "configurable_products": [
+            {
+                "child_id": 74036764,
+                "id": 74036765,
+                "option1": "200*180*30",
+                "option2": null,
+                "price": 10860000
+            },
+            {
+                "child_id": 74036762,
+                "id": 74036763,
+                "option1": "200*160*30",
+                "option2": null,
+                "price": 9710000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 72525332,
+        "sku": "4314868147521",
+        "name": "Topper T\u1ea5m Ti\u1ec7n Nghi Tr\u00e0 Xanh Gel M\u00e1t L\u00e0m M\u1ec1m N\u1ec7m Cao C\u1ea5p Zinus - Green Tea Memory Foam 180*200*7.5cm",
+        "url_key": "topper-tam-tien-nghi-tra-xanh-gel-mat-lam-mem-nem-cao-cap-zinus-green-tea-memory-foam-180-200-7-5cm-p72525332",
+        "price": 2330000,
+        "list_price": 3116000,
+        "original_price": 3116000,
+        "discount": 786000,
+        "discount_rate": 25,
+        "configurable_products": [],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 76118498,
+        "sku": "2201287665359",
+        "name": "N\u1ec7m l\u00f2 xo t\u00fai h\u00fat ch\u00e2n kh\u00f4ng Gel m\u00e1t cao c\u1ea5p Zinus - Gel-Infused Memory Foam Hybrid Spring Mattress ",
+        "url_key": "nem-lo-xo-tui-hut-chan-khong-gel-mat-cao-cap-zinus-gel-infused-memory-foam-hybrid-spring-mattress-p76118498",
+        "price": 7140000,
+        "list_price": 8411000,
+        "original_price": 8411000,
+        "discount": 1271000,
+        "discount_rate": 15,
+        "configurable_products": [
+            {
+                "child_id": 76118499,
+                "id": 76118500,
+                "option1": "200 x 180 x 25cm",
+                "option2": null,
+                "price": 7990000
+            },
+            {
+                "child_id": 76118501,
+                "id": 76118502,
+                "option1": "200 x 160 x 25cm",
+                "option2": null,
+                "price": 7140000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 74036788,
+        "sku": "1818274556708",
+        "name": "N\u1ec7m foam cu\u1ed9n h\u00fat ch\u00e2n kh\u00f4ng Gel m\u00e1t cao c\u1ea5p Zinus - 10in Cooling Gel Memory Foam Mattress",
+        "url_key": "nem-foam-cuon-hut-chan-khong-gel-mat-cao-cap-zinus-10in-cooling-gel-memory-foam-mattress-p74036788",
+        "price": 9110000,
+        "list_price": 9651600,
+        "original_price": 9651600,
+        "discount": 541600,
+        "discount_rate": 6,
+        "configurable_products": [
+            {
+                "child_id": 74036793,
+                "id": 74036794,
+                "option1": "200*180*25",
+                "option2": null,
+                "price": 9110000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    },
+    {
+        "id": 108856551,
+        "sku": "1142265167872",
+        "name": "N\u1ec7m L\u00f2 Xo Cao Su Zinus H\u00fat Ch\u00e2n Kh\u00f4ng Cao C\u1ea5p Zinus - 10in Euro Top Latex Hybrid Spring Mattress",
+        "url_key": "nem-lo-xo-cao-su-zinus-hut-chan-khong-cao-cap-zinus-10in-euro-top-latex-hybrid-spring-mattress-p108856551",
+        "price": 7660000,
+        "list_price": 10215000,
+        "original_price": 10215000,
+        "discount": 2555000,
+        "discount_rate": 25,
+        "configurable_products": [
+            {
+                "child_id": 108856552,
+                "id": 108856553,
+                "option1": "160x200x25cm",
+                "option2": null,
+                "price": 7660000
+            },
+            {
+                "child_id": 108856554,
+                "id": 108856555,
+                "option1": "180*200*25cm",
+                "option2": null,
+                "price": 8650000
+            }
+        ],
+        "_batched_at": "2021-09-27T08:52:10"
+    }
+]
