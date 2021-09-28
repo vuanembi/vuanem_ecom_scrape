@@ -72,7 +72,7 @@ async def get_tiki(session, seller_slug):
         asyncio.create_task(get_tiki_product_variants(session, id))
         for id in product_ids
     ]
-    return await asyncio.gather(*tasks)
+    return asyncio.gather(*tasks)
 
 
 async def get_shopee_shop_id(session, seller_slug):
@@ -168,7 +168,8 @@ def main():
     }
 
     async def scrape(sellers):
-        async with aiohttp.ClientSession() as session:
+        connector = aiohttp.TCPConnector(limit=5)
+        async with aiohttp.ClientSession(connector=connector) as session:
             tasks = [
                 await scrape_one(session, seller_slug, ecom)
                 for ecom, seller in sellers.items()
@@ -200,16 +201,16 @@ def main():
         return await scraper(session, seller_slug)
 
     sellers = {
-        # "tiki": [
-        #     "vua-nem-official-store",
-        #     "ru9-the-sleep-company",
-        #     "zinus-official-store",
-        #     "nem-gia-kho",
-        #     "dem-ha-noi",
-        # ],
+        "tiki": [
+            "vua-nem-official-store",
+            "ru9-the-sleep-company",
+            "zinus-official-store",
+            "nem-gia-kho",
+            "dem-ha-noi",
+        ],
         "shopee": [
             "vua_nem_official_store",
-        ]
+        ],
     }
     asyncio.run(scrape(sellers))
 

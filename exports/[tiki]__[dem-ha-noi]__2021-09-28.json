@@ -88,7 +88,7 @@
                 "price": 8480000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 42232193,
@@ -101,7 +101,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16220659,
@@ -136,7 +136,7 @@
                 "price": 1200000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 70883020,
@@ -850,7 +850,7 @@
                 "price": 780000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32694527,
@@ -990,7 +990,7 @@
                 "price": 850000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 99193072,
@@ -1116,7 +1116,7 @@
                 "price": 330000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 12265150,
@@ -1144,7 +1144,7 @@
                 "price": 1480000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26457390,
@@ -1157,7 +1157,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 794961,
@@ -1170,7 +1170,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20418786,
@@ -1317,7 +1317,7 @@
                 "price": 4260000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4777241,
@@ -1330,7 +1330,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25970122,
@@ -1343,7 +1343,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37518091,
@@ -1371,7 +1371,7 @@
                 "price": 3850000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52669740,
@@ -1410,10 +1410,10 @@
                 "id": 99337185,
                 "option1": "\u0110\u1ecf",
                 "option2": null,
-                "price": 118758
+                "price": 116070
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 794985,
@@ -1426,7 +1426,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59238219,
@@ -1461,7 +1461,7 @@
                 "price": 1700000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11653845,
@@ -1489,7 +1489,7 @@
                 "price": 420000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36385689,
@@ -1531,7 +1531,7 @@
                 "price": 2800000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 121225342,
@@ -1559,7 +1559,7 @@
                 "price": 385000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26456849,
@@ -1572,7 +1572,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 72866963,
@@ -1585,7 +1585,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59239134,
@@ -1598,7 +1598,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 72790574,
@@ -1626,7 +1626,7 @@
                 "price": 1100000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 101938216,
@@ -1773,7 +1773,7 @@
                 "price": 960000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26459389,
@@ -1786,7 +1786,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 99242929,
@@ -2066,7 +2066,7 @@
                 "price": 1150000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26457308,
@@ -2079,7 +2079,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 10098970,
@@ -2352,7 +2352,7 @@
                 "price": 6240000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 46549804,
@@ -2380,7 +2380,7 @@
                 "price": 2870000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62313749,
@@ -2408,7 +2408,7 @@
                 "price": 1500000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62411928,
@@ -2443,7 +2443,7 @@
                 "price": 1350000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318094,
@@ -2478,7 +2478,7 @@
                 "price": 14070000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 71564428,
@@ -3213,7 +3213,7 @@
                 "price": 3720000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67517149,
@@ -3248,7 +3248,7 @@
                 "price": 1340000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16348640,
@@ -3261,7 +3261,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25708067,
@@ -3274,7 +3274,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62309169,
@@ -3302,7 +3302,7 @@
                 "price": 265000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22882045,
@@ -3330,7 +3330,7 @@
                 "price": 7461000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36389438,
@@ -3372,7 +3372,7 @@
                 "price": 6230000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 24665869,
@@ -3385,7 +3385,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 63172024,
@@ -3420,7 +3420,7 @@
                 "price": 1780000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16240800,
@@ -3504,7 +3504,7 @@
                 "price": 1850000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 42216510,
@@ -3517,7 +3517,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23482047,
@@ -3573,7 +3573,7 @@
                 "price": 14080000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59491319,
@@ -3608,7 +3608,7 @@
                 "price": 1480000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59224606,
@@ -3643,7 +3643,7 @@
                 "price": 1360000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16241787,
@@ -3734,7 +3734,7 @@
                 "price": 2784000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 39363721,
@@ -3747,7 +3747,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 116904942,
@@ -3789,7 +3789,7 @@
                 "price": 279000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 10140894,
@@ -3901,7 +3901,7 @@
                 "price": 3461200
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 72712654,
@@ -3943,7 +3943,7 @@
                 "price": 4500000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26457247,
@@ -3956,7 +3956,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59518200,
@@ -3969,7 +3969,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59554739,
@@ -3990,7 +3990,7 @@
                 "price": 1930000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33109112,
@@ -4003,7 +4003,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 21299482,
@@ -4016,7 +4016,7 @@
         "discount": 100000,
         "discount_rate": 13,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4301591,
@@ -4029,7 +4029,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29259256,
@@ -4042,7 +4042,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32724741,
@@ -4084,7 +4084,7 @@
                 "price": 15000000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36389190,
@@ -4119,7 +4119,7 @@
                 "price": 4090000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62678591,
@@ -4154,7 +4154,7 @@
                 "price": 1570000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 24597636,
@@ -4210,7 +4210,7 @@
                 "price": 10075000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4103621,
@@ -4223,7 +4223,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 38118155,
@@ -4236,7 +4236,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25982125,
@@ -4249,20 +4249,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 11881505,
-        "sku": "7001700875632",
-        "name": "Th\u1ea3m tr\u1ea3i s\u00e0n bali cao c\u1ea5p 1.6m x 2.3m",
-        "url_key": "tham-trai-san-bali-cao-cap-1-6m-x-2-3m-p11881505",
-        "price": 445000,
-        "list_price": 445000,
-        "original_price": 445000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29206229,
@@ -4275,7 +4262,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 68871909,
@@ -4296,7 +4283,7 @@
                 "price": 1050000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67200497,
@@ -4506,7 +4493,7 @@
                 "price": 1240000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26460700,
@@ -4519,7 +4506,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37518166,
@@ -4547,7 +4534,7 @@
                 "price": 2190000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16348690,
@@ -4596,7 +4583,7 @@
                 "price": 2781000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16136402,
@@ -4609,7 +4596,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59238537,
@@ -4644,7 +4631,7 @@
                 "price": 2140000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37518070,
@@ -4672,7 +4659,7 @@
                 "price": 3800000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517824,
@@ -4700,7 +4687,7 @@
                 "price": 3800000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 38119073,
@@ -4713,7 +4700,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36961853,
@@ -4811,7 +4798,7 @@
                 "price": 5560000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16233025,
@@ -4846,7 +4833,7 @@
                 "price": 690000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62680214,
@@ -4874,7 +4861,7 @@
                 "price": 1720000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4300299,
@@ -4887,7 +4874,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26230897,
@@ -4900,7 +4887,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26458581,
@@ -4913,7 +4900,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 10139441,
@@ -4962,7 +4949,7 @@
                 "price": 5350000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16222646,
@@ -5004,7 +4991,7 @@
                 "price": 880000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26457077,
@@ -5017,7 +5004,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59076514,
@@ -5052,7 +5039,7 @@
                 "price": 1850000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62755139,
@@ -5087,7 +5074,7 @@
                 "price": 2220000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25969555,
@@ -5100,7 +5087,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26652006,
@@ -5113,20 +5100,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 38118346,
-        "sku": "1929659036293",
-        "name": "Th\u1ea3m tr\u1ea3i s\u00e0n bali cao c\u1ea5p k\u00edch th\u01b0\u1edbc 160*230cm m\u00e3 25",
-        "url_key": "tham-trai-san-bali-cao-cap-kich-thuoc-160-230cm-ma-25-p38118346",
-        "price": 348000,
-        "list_price": 348000,
-        "original_price": 348000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59491443,
@@ -5161,7 +5135,7 @@
                 "price": 2070000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 60035866,
@@ -5189,7 +5163,7 @@
                 "price": 1410000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62811708,
@@ -5224,7 +5198,7 @@
                 "price": 1840000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26471596,
@@ -5237,7 +5211,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517874,
@@ -5265,7 +5239,7 @@
                 "price": 3750000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25982308,
@@ -5278,7 +5252,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25981873,
@@ -5291,7 +5265,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 39363758,
@@ -5304,7 +5278,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59360069,
@@ -5339,7 +5313,7 @@
                 "price": 1900000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 14901595,
@@ -5352,7 +5326,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16929990,
@@ -5415,7 +5389,7 @@
                 "price": 5100000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26457787,
@@ -5428,7 +5402,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4353519,
@@ -5441,7 +5415,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 63157938,
+        "sku": "5015092922418",
+        "name": "V\u1ecf g\u1ed1i Everon 45*65 EPM 21065",
+        "url_key": "vo-goi-everon-45-65-epm-21065-p63157938",
+        "price": 315000,
+        "list_price": 315000,
+        "original_price": 315000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20946604,
@@ -5476,20 +5463,7 @@
                 "price": 2625000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 63157938,
-        "sku": "5015092922418",
-        "name": "V\u1ecf g\u1ed1i Everon 45*65 EPM 21065",
-        "url_key": "vo-goi-everon-45-65-epm-21065-p63157938",
-        "price": 315000,
-        "list_price": 315000,
-        "original_price": 315000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62657361,
@@ -5524,7 +5498,7 @@
                 "price": 1860000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26470629,
@@ -5537,7 +5511,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59080229,
@@ -5550,7 +5524,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517644,
@@ -5578,7 +5552,7 @@
                 "price": 3750000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 34577547,
@@ -5606,7 +5580,7 @@
                 "price": 14000000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59242326,
@@ -5619,7 +5593,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 38118346,
+        "sku": "1929659036293",
+        "name": "Th\u1ea3m tr\u1ea3i s\u00e0n bali cao c\u1ea5p k\u00edch th\u01b0\u1edbc 160*230cm m\u00e3 25",
+        "url_key": "tham-trai-san-bali-cao-cap-kich-thuoc-160-230cm-ma-25-p38118346",
+        "price": 348000,
+        "list_price": 348000,
+        "original_price": 348000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 63169365,
@@ -5654,7 +5641,7 @@
                 "price": 1190000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29188676,
@@ -5667,7 +5654,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 14041389,
@@ -5680,7 +5667,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26049591,
@@ -5693,7 +5680,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62327838,
@@ -5721,7 +5708,7 @@
                 "price": 205000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26460137,
@@ -5734,7 +5721,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33424715,
@@ -5762,7 +5749,7 @@
                 "price": 980000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29255618,
@@ -5775,7 +5762,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 11881505,
+        "sku": "7001700875632",
+        "name": "Th\u1ea3m tr\u1ea3i s\u00e0n bali cao c\u1ea5p 1.6m x 2.3m",
+        "url_key": "tham-trai-san-bali-cao-cap-1-6m-x-2-3m-p11881505",
+        "price": 379000,
+        "list_price": 379000,
+        "original_price": 379000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33139180,
@@ -5831,7 +5831,7 @@
                 "price": 445000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59224662,
@@ -5866,7 +5866,7 @@
                 "price": 2040000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25709361,
@@ -5879,7 +5879,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11458390,
@@ -5928,7 +5928,7 @@
                 "price": 2910000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62809521,
@@ -5963,7 +5963,7 @@
                 "price": 1230000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59105276,
@@ -5991,7 +5991,7 @@
                 "price": 280000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 795009,
@@ -6004,7 +6004,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52615144,
@@ -6312,7 +6312,7 @@
                 "price": 290410
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 101934218,
@@ -6473,7 +6473,7 @@
                 "price": 900000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59239414,
@@ -6501,7 +6501,7 @@
                 "price": 280000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26613656,
@@ -6522,7 +6522,7 @@
                 "price": 4401000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59244210,
@@ -6543,7 +6543,7 @@
                 "price": 1650000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16361430,
@@ -6571,7 +6571,7 @@
                 "price": 4420000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26461429,
@@ -6584,7 +6584,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 116905689,
@@ -6619,7 +6619,7 @@
                 "price": 449000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36647816,
@@ -6632,7 +6632,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62812930,
@@ -6667,7 +6667,7 @@
                 "price": 3000000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 38118603,
@@ -6680,7 +6680,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62701435,
@@ -6693,7 +6693,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 70784210,
@@ -6917,7 +6917,7 @@
                 "price": 2050000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67517323,
@@ -6952,7 +6952,7 @@
                 "price": 2100000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16243287,
@@ -6994,7 +6994,7 @@
                 "price": 7420000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 43174319,
@@ -7057,7 +7057,7 @@
                 "price": 4795000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26049662,
@@ -7070,7 +7070,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29187039,
@@ -7083,7 +7083,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26250490,
@@ -7096,7 +7096,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318257,
@@ -7117,7 +7117,7 @@
                 "price": 7884000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 27623652,
@@ -7159,7 +7159,7 @@
                 "price": 4800000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 31919720,
@@ -7172,7 +7172,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33107925,
@@ -7185,7 +7185,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16348567,
@@ -7234,7 +7234,7 @@
                 "price": 6168000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59076028,
@@ -7269,7 +7269,7 @@
                 "price": 2470000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16344081,
@@ -7339,7 +7339,7 @@
                 "price": 2223000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25982566,
@@ -7352,7 +7352,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 63147353,
@@ -7380,7 +7380,7 @@
                 "price": 1700000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67517361,
@@ -7408,7 +7408,7 @@
                 "price": 2360000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59111994,
@@ -7421,7 +7421,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32876577,
@@ -7434,7 +7434,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62750538,
@@ -7469,7 +7469,7 @@
                 "price": 1350000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33113497,
@@ -7482,7 +7482,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 42559751,
@@ -7517,7 +7517,7 @@
                 "price": 3675000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20415401,
@@ -7559,7 +7559,7 @@
                 "price": 3985000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67516905,
@@ -7572,7 +7572,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26447857,
@@ -7593,7 +7593,7 @@
                 "price": 4625000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32869851,
@@ -7606,20 +7606,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 62306513,
-        "sku": "7791556353087",
-        "name": "Ch\u0103n h\u00e8 everon 180*220 EPT 21042",
-        "url_key": "chan-he-everon-180-220-ept-21042-p62306513",
-        "price": 1870000,
-        "list_price": 1870000,
-        "original_price": 1870000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59471014,
@@ -7654,7 +7641,20 @@
                 "price": 2430000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 62306513,
+        "sku": "7791556353087",
+        "name": "Ch\u0103n h\u00e8 everon 180*220 EPT 21042",
+        "url_key": "chan-he-everon-180-220-ept-21042-p62306513",
+        "price": 1870000,
+        "list_price": 1870000,
+        "original_price": 1870000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32878261,
@@ -7667,7 +7667,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16136777,
@@ -7680,20 +7680,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59236781,
-        "sku": "6431761899543",
-        "name": "V\u1ecf ch\u0103n everon 200*220 ESM 21015",
-        "url_key": "vo-chan-everon-200-220-esm-21015-p59236781",
-        "price": 2040000,
-        "list_price": 2040000,
-        "original_price": 2040000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62673899,
@@ -7706,7 +7693,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59236781,
+        "sku": "6431761899543",
+        "name": "V\u1ecf ch\u0103n everon 200*220 ESM 21015",
+        "url_key": "vo-chan-everon-200-220-esm-21015-p59236781",
+        "price": 2040000,
+        "list_price": 2040000,
+        "original_price": 2040000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26486253,
@@ -7719,7 +7719,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 14901233,
@@ -7732,48 +7732,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 25981170,
-        "sku": "1375917172508",
-        "name": "\u0111\u1ec7m b\u00f4ng \u00e9p ch\u1ed1ng tr\u01b0\u1ee3t Everon 160*200*18",
-        "url_key": "dem-bong-ep-chong-truot-everon-160-200-18-p25981170",
-        "price": 5392000,
-        "list_price": 5392000,
-        "original_price": 5392000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59236433,
-        "sku": "3511257621254",
-        "name": "V\u1ecf g\u1ed1i \u00f4m everon ESM 21015",
-        "url_key": "vo-goi-om-everon-esm-21015-p59236433",
-        "price": 230000,
-        "list_price": 230000,
-        "original_price": 230000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 59236434,
-                "id": 59236435,
-                "option1": "60*80",
-                "option2": null,
-                "price": 230000
-            },
-            {
-                "child_id": 59236436,
-                "id": 59236437,
-                "option1": "80*100",
-                "option2": null,
-                "price": 290000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62655922,
@@ -7808,7 +7767,48 @@
                 "price": 1600000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 25981170,
+        "sku": "1375917172508",
+        "name": "\u0111\u1ec7m b\u00f4ng \u00e9p ch\u1ed1ng tr\u01b0\u1ee3t Everon 160*200*18",
+        "url_key": "dem-bong-ep-chong-truot-everon-160-200-18-p25981170",
+        "price": 5392000,
+        "list_price": 5392000,
+        "original_price": 5392000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59236433,
+        "sku": "3511257621254",
+        "name": "V\u1ecf g\u1ed1i \u00f4m everon ESM 21015",
+        "url_key": "vo-goi-om-everon-esm-21015-p59236433",
+        "price": 230000,
+        "list_price": 230000,
+        "original_price": 230000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 59236434,
+                "id": 59236435,
+                "option1": "60*80",
+                "option2": null,
+                "price": 230000
+            },
+            {
+                "child_id": 59236436,
+                "id": 59236437,
+                "option1": "80*100",
+                "option2": null,
+                "price": 290000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 31521860,
@@ -7857,7 +7857,7 @@
                 "price": 12160000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52849634,
@@ -7870,7 +7870,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59237753,
@@ -7883,7 +7883,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26673722,
@@ -7896,7 +7896,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37518126,
@@ -7917,7 +7917,7 @@
                 "price": 2140000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26246729,
@@ -7930,7 +7930,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26653413,
@@ -7943,20 +7943,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59549389,
-        "sku": "6597248424674",
-        "name": "V\u1ecf ch\u0103n 200*220 Everon EST 21036",
-        "url_key": "vo-chan-200-220-everon-est-21036-p59549389",
-        "price": 2200000,
-        "list_price": 2200000,
-        "original_price": 2200000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 31522758,
@@ -7998,7 +7985,7 @@
                 "price": 7970000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36848213,
@@ -8026,7 +8013,42 @@
                 "price": 8390000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 60077903,
+        "sku": "4519781582187",
+        "name": "Ga chun Everon EPT 21041",
+        "url_key": "ga-chun-everon-ept-21041-p60077903",
+        "price": 1100000,
+        "list_price": 1100000,
+        "original_price": 1100000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 60077908,
+                "id": 76169404,
+                "option1": "200*220",
+                "option2": null,
+                "price": 1480000
+            },
+            {
+                "child_id": 60077904,
+                "id": 76169362,
+                "option1": "160*200",
+                "option2": null,
+                "price": 1100000
+            },
+            {
+                "child_id": 60077906,
+                "id": 76169402,
+                "option1": "180*200",
+                "option2": null,
+                "price": 1200000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33619768,
@@ -8068,7 +8090,7 @@
                 "price": 4000000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59226873,
@@ -8096,42 +8118,20 @@
                 "price": 2080000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 60077903,
-        "sku": "4519781582187",
-        "name": "Ga chun Everon EPT 21041",
-        "url_key": "ga-chun-everon-ept-21041-p60077903",
-        "price": 1100000,
-        "list_price": 1100000,
-        "original_price": 1100000,
+        "id": 59549389,
+        "sku": "6597248424674",
+        "name": "V\u1ecf ch\u0103n 200*220 Everon EST 21036",
+        "url_key": "vo-chan-200-220-everon-est-21036-p59549389",
+        "price": 2200000,
+        "list_price": 2200000,
+        "original_price": 2200000,
         "discount": 0,
         "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 60077908,
-                "id": 76169404,
-                "option1": "200*220",
-                "option2": null,
-                "price": 1480000
-            },
-            {
-                "child_id": 60077904,
-                "id": 76169362,
-                "option1": "160*200",
-                "option2": null,
-                "price": 1100000
-            },
-            {
-                "child_id": 60077906,
-                "id": 76169402,
-                "option1": "180*200",
-                "option2": null,
-                "price": 1200000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32884910,
@@ -8173,7 +8173,7 @@
                 "price": 4500000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29253742,
@@ -8201,7 +8201,7 @@
                 "price": 1930000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32972606,
@@ -8214,7 +8214,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59470162,
@@ -8227,7 +8227,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22882033,
@@ -8255,35 +8255,7 @@
                 "price": 29571000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 16348564,
-        "sku": "4346998313323",
-        "name": "N\u1ec7m L\u00f2 Xo Dunlopillo Duchess Extra Firm",
-        "url_key": "nem-lo-xo-dunlopillo-duchess-extra-firm-p16348564",
-        "price": 17322000,
-        "list_price": 17322000,
-        "original_price": 17322000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 16348565,
-                "id": 58929395,
-                "option1": "160 x 200 x 29 cm",
-                "option2": null,
-                "price": 17322000
-            },
-            {
-                "child_id": 16348568,
-                "id": 58929401,
-                "option1": "180 x 200 x 29 cm",
-                "option2": null,
-                "price": 19308000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517589,
@@ -8311,7 +8283,35 @@
                 "price": 5530000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 16348564,
+        "sku": "4346998313323",
+        "name": "N\u1ec7m L\u00f2 Xo Dunlopillo Duchess Extra Firm",
+        "url_key": "nem-lo-xo-dunlopillo-duchess-extra-firm-p16348564",
+        "price": 17322000,
+        "list_price": 17322000,
+        "original_price": 17322000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 16348565,
+                "id": 58929395,
+                "option1": "160 x 200 x 29 cm",
+                "option2": null,
+                "price": 17322000
+            },
+            {
+                "child_id": 16348568,
+                "id": 58929401,
+                "option1": "180 x 200 x 29 cm",
+                "option2": null,
+                "price": 19308000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59491258,
@@ -8324,7 +8324,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 31522308,
@@ -8366,7 +8366,7 @@
                 "price": 9440000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59489469,
@@ -8401,7 +8401,7 @@
                 "price": 2040000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62328925,
@@ -8414,35 +8414,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 37517709,
-        "sku": "9463444879372",
-        "name": "Ch\u0103n ga g\u1ed1i Hanvico Blue Sky DL156",
-        "url_key": "chan-ga-goi-hanvico-blue-sky-dl156-p37517709",
-        "price": 3700000,
-        "list_price": 3700000,
-        "original_price": 3700000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 37517710,
-                "id": 44329369,
-                "option1": "1m6x2m",
-                "option2": null,
-                "price": 3700000
-            },
-            {
-                "child_id": 37517712,
-                "id": 44329365,
-                "option1": "1m8x2m",
-                "option2": null,
-                "price": 3800000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16243160,
@@ -8484,7 +8456,35 @@
                 "price": 5280000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 37517709,
+        "sku": "9463444879372",
+        "name": "Ch\u0103n ga g\u1ed1i Hanvico Blue Sky DL156",
+        "url_key": "chan-ga-goi-hanvico-blue-sky-dl156-p37517709",
+        "price": 3700000,
+        "list_price": 3700000,
+        "original_price": 3700000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 37517710,
+                "id": 44329369,
+                "option1": "1m6x2m",
+                "option2": null,
+                "price": 3700000
+            },
+            {
+                "child_id": 37517712,
+                "id": 44329365,
+                "option1": "1m8x2m",
+                "option2": null,
+                "price": 3800000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 38118824,
@@ -8497,7 +8497,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16348617,
@@ -8539,7 +8539,7 @@
                 "price": 5840000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62315396,
@@ -8574,7 +8574,7 @@
                 "price": 1980000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 63143274,
@@ -8609,7 +8609,7 @@
                 "price": 1190000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25980524,
@@ -8622,20 +8622,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26250113,
-        "sku": "3673649314660",
-        "name": "\u0111\u1ec7m b\u00f4ng \u00e9p ch\u1ed1ng tr\u01b0\u1ee3t everon 180*200*5",
-        "url_key": "dem-bong-ep-chong-truot-everon-180-200-5-p26250113",
-        "price": 2640000,
-        "list_price": 2640000,
-        "original_price": 2640000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62654951,
@@ -8648,7 +8635,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517979,
@@ -8676,7 +8663,20 @@
                 "price": 3845000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26250113,
+        "sku": "3673649314660",
+        "name": "\u0111\u1ec7m b\u00f4ng \u00e9p ch\u1ed1ng tr\u01b0\u1ee3t everon 180*200*5",
+        "url_key": "dem-bong-ep-chong-truot-everon-180-200-5-p26250113",
+        "price": 2640000,
+        "list_price": 2640000,
+        "original_price": 2640000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52849608,
@@ -8689,7 +8689,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 106333116,
@@ -8702,7 +8702,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11768193,
@@ -8715,7 +8715,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 14901557,
+        "sku": "5069910143455",
+        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p Everon 160*195*5",
+        "url_key": "dem-bong-ep-everon-160-195-5-p14901557",
+        "price": 2880000,
+        "list_price": 2880000,
+        "original_price": 2880000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517804,
@@ -8743,20 +8756,20 @@
                 "price": 3580000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 14901557,
-        "sku": "5069910143455",
-        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p Everon 160*195*5",
-        "url_key": "dem-bong-ep-everon-160-195-5-p14901557",
-        "price": 2880000,
-        "list_price": 2880000,
-        "original_price": 2880000,
+        "id": 11883160,
+        "sku": "7897857785111",
+        "name": "Th\u1ea3m tr\u1ea3i s\u00e0n bali cao c\u1ea5p 1.6m x 2.3m",
+        "url_key": "tham-trai-san-bali-cao-cap-1-6m-x-2-3m-p11883160",
+        "price": 369000,
+        "list_price": 369000,
+        "original_price": 369000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517864,
@@ -8784,48 +8797,7 @@
                 "price": 3700000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 37518075,
-        "sku": "9811775873932",
-        "name": "Ch\u0103n ga g\u1ed1i Hanvico My Youth MY64",
-        "url_key": "chan-ga-goi-hanvico-my-youth-my64-p37518075",
-        "price": 2950000,
-        "list_price": 2950000,
-        "original_price": 2950000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 37518076,
-                "id": 44320015,
-                "option1": "1m6x2m",
-                "option2": null,
-                "price": 2950000
-            },
-            {
-                "child_id": 37518078,
-                "id": 44319999,
-                "option1": "1m8x2m",
-                "option2": null,
-                "price": 3050000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26480653,
-        "sku": "7772918184747",
-        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess gold 160*200*15",
-        "url_key": "dem-kim-cuong-princess-gold-160-200-15-p26480653",
-        "price": 11166000,
-        "list_price": 11166000,
-        "original_price": 11166000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16235325,
@@ -8853,7 +8825,35 @@
                 "price": 2600000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 37518075,
+        "sku": "9811775873932",
+        "name": "Ch\u0103n ga g\u1ed1i Hanvico My Youth MY64",
+        "url_key": "chan-ga-goi-hanvico-my-youth-my64-p37518075",
+        "price": 2950000,
+        "list_price": 2950000,
+        "original_price": 2950000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 37518076,
+                "id": 44320015,
+                "option1": "1m6x2m",
+                "option2": null,
+                "price": 2950000
+            },
+            {
+                "child_id": 37518078,
+                "id": 44319999,
+                "option1": "1m8x2m",
+                "option2": null,
+                "price": 3050000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62672145,
@@ -8866,7 +8866,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26480653,
+        "sku": "7772918184747",
+        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess gold 160*200*15",
+        "url_key": "dem-kim-cuong-princess-gold-160-200-15-p26480653",
+        "price": 11166000,
+        "list_price": 11166000,
+        "original_price": 11166000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52849620,
@@ -8879,7 +8892,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32720610,
@@ -8977,7 +8990,7 @@
                 "price": 9665000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33392547,
@@ -9117,7 +9130,7 @@
                 "price": 820000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26480032,
@@ -9130,7 +9143,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20412765,
@@ -9158,7 +9171,7 @@
                 "price": 16880000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32882050,
@@ -9171,7 +9184,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318103,
@@ -9192,7 +9205,7 @@
                 "price": 9339000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 39657119,
@@ -9205,7 +9218,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16237321,
@@ -9218,7 +9231,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32721010,
@@ -9260,7 +9273,7 @@
                 "price": 4470000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62770771,
@@ -9273,7 +9286,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 2328667,
@@ -9286,20 +9299,33 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 14889149,
-        "sku": "6654620971932",
-        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p Everon 160*200*18",
-        "url_key": "dem-bong-ep-everon-160-200-18-p14889149",
-        "price": 6740000,
-        "list_price": 6740000,
-        "original_price": 6740000,
+        "id": 59471434,
+        "sku": "7850458098820",
+        "name": "Ch\u0103n h\u00e8 Everon 180*220 EST 21033",
+        "url_key": "chan-he-everon-180-220-est-21033-p59471434",
+        "price": 2130000,
+        "list_price": 2130000,
+        "original_price": 2130000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26674256,
+        "sku": "7079063090658",
+        "name": "T\u1ea5m b\u1ea3o v\u1ec7 \u0111\u1ec7m h\u00e0ng xu\u1ea5t kh\u1ea9u ti\u00eau chu\u1ea9n ch\u00e2u \u00e2u 160*200",
+        "url_key": "tam-bao-ve-dem-hang-xuat-khau-tieu-chuan-chau-au-160-200-p26674256",
+        "price": 750000,
+        "list_price": 750000,
+        "original_price": 750000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59358182,
@@ -9312,7 +9338,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 14889149,
+        "sku": "6654620971932",
+        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p Everon 160*200*18",
+        "url_key": "dem-bong-ep-everon-160-200-18-p14889149",
+        "price": 6740000,
+        "list_price": 6740000,
+        "original_price": 6740000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29605871,
@@ -9333,7 +9372,7 @@
                 "price": 380000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33610772,
@@ -9375,33 +9414,7 @@
                 "price": 4420000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59471434,
-        "sku": "7850458098820",
-        "name": "Ch\u0103n h\u00e8 Everon 180*220 EST 21033",
-        "url_key": "chan-he-everon-180-220-est-21033-p59471434",
-        "price": 2130000,
-        "list_price": 2130000,
-        "original_price": 2130000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26674256,
-        "sku": "7079063090658",
-        "name": "T\u1ea5m b\u1ea3o v\u1ec7 \u0111\u1ec7m h\u00e0ng xu\u1ea5t kh\u1ea9u ti\u00eau chu\u1ea9n ch\u00e2u \u00e2u 160*200",
-        "url_key": "tam-bao-ve-dem-hang-xuat-khau-tieu-chuan-chau-au-160-200-p26674256",
-        "price": 750000,
-        "list_price": 750000,
-        "original_price": 750000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16450889,
@@ -9450,7 +9463,7 @@
                 "price": 4420000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517724,
@@ -9478,7 +9491,7 @@
                 "price": 3950000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26481178,
@@ -9491,7 +9504,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32945404,
@@ -9504,7 +9517,7 @@
         "discount": 140900,
         "discount_rate": 28,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29207133,
@@ -9517,7 +9530,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62325930,
@@ -9530,7 +9543,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26054322,
@@ -9543,7 +9556,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62291449,
@@ -9556,7 +9569,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26057234,
@@ -9569,7 +9582,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29207495,
@@ -9582,7 +9595,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26679106,
+        "sku": "2249162894845",
+        "name": "T\u1ea5m b\u1ea3o v\u1ec7 \u0111\u1ec7m h\u00e0ng xu\u1ea5t kh\u1ea9u ti\u00eau chu\u1ea9n ch\u00e2u \u00e2u 120*200",
+        "url_key": "tam-bao-ve-dem-hang-xuat-khau-tieu-chuan-chau-au-120-200-p26679106",
+        "price": 650000,
+        "list_price": 650000,
+        "original_price": 650000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33425474,
@@ -9603,20 +9629,7 @@
                 "price": 5180000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26679106,
-        "sku": "2249162894845",
-        "name": "T\u1ea5m b\u1ea3o v\u1ec7 \u0111\u1ec7m h\u00e0ng xu\u1ea5t kh\u1ea9u ti\u00eau chu\u1ea9n ch\u00e2u \u00e2u 120*200",
-        "url_key": "tam-bao-ve-dem-hang-xuat-khau-tieu-chuan-chau-au-120-200-p26679106",
-        "price": 650000,
-        "list_price": 650000,
-        "original_price": 650000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 38118982,
@@ -9629,7 +9642,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62420883,
@@ -9642,7 +9655,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52619510,
@@ -9670,7 +9683,7 @@
                 "price": 799000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59357100,
@@ -9683,7 +9696,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25490985,
@@ -9704,7 +9717,7 @@
                 "price": 550000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1385273,
@@ -9717,20 +9730,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 32872617,
-        "sku": "1625930268758",
-        "name": "G\u1ed1i cao su nghi\u00eang Kim C\u01b0\u01a1ng 37x57cm",
-        "url_key": "goi-cao-su-nghieng-kim-cuong-37x57cm-p32872617",
-        "price": 485000,
-        "list_price": 485000,
-        "original_price": 485000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25983301,
@@ -9743,7 +9743,48 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 32872617,
+        "sku": "1625930268758",
+        "name": "G\u1ed1i cao su nghi\u00eang Kim C\u01b0\u01a1ng 37x57cm",
+        "url_key": "goi-cao-su-nghieng-kim-cuong-37x57cm-p32872617",
+        "price": 485000,
+        "list_price": 485000,
+        "original_price": 485000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 27859028,
+        "sku": "4663719054748",
+        "name": "\u0110\u1ec7m l\u00f2 xo Kingkoil Everon Lancaster Plush",
+        "url_key": "dem-lo-xo-kingkoil-everon-lancaster-plush-p27859028",
+        "price": 26680000,
+        "list_price": 26680000,
+        "original_price": 26680000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 27859029,
+                "id": 27859030,
+                "option1": "160*200",
+                "option2": null,
+                "price": 30200000
+            },
+            {
+                "child_id": 27859031,
+                "id": 35366957,
+                "option1": "180*200",
+                "option2": null,
+                "price": 26680000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59470832,
@@ -9778,7 +9819,7 @@
                 "price": 1750000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36646620,
@@ -9791,35 +9832,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 27859028,
-        "sku": "4663719054748",
-        "name": "\u0110\u1ec7m l\u00f2 xo Kingkoil Everon Lancaster Plush",
-        "url_key": "dem-lo-xo-kingkoil-everon-lancaster-plush-p27859028",
-        "price": 26680000,
-        "list_price": 26680000,
-        "original_price": 26680000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 27859029,
-                "id": 27859030,
-                "option1": "160*200",
-                "option2": null,
-                "price": 30200000
-            },
-            {
-                "child_id": 27859031,
-                "id": 35366957,
-                "option1": "180*200",
-                "option2": null,
-                "price": 26680000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26251099,
@@ -9832,7 +9845,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33587093,
@@ -9874,7 +9887,7 @@
                 "price": 4890000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 60073698,
@@ -9887,7 +9900,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 41602961,
@@ -9922,7 +9935,7 @@
                 "price": 3560000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 64643209,
@@ -9935,7 +9948,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 48279123,
@@ -9984,7 +9997,20 @@
                 "price": 349000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 62773153,
+        "sku": "1861847141641",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a Everon 200*220 EPM 21064",
+        "url_key": "chan-bon-mua-everon-200-220-epm-21064-p62773153",
+        "price": 2350000,
+        "list_price": 2350000,
+        "original_price": 2350000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67796512,
@@ -10040,7 +10066,7 @@
                 "price": 5360000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36966074,
@@ -10166,20 +10192,7 @@
                 "price": 6270000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 62773153,
-        "sku": "1861847141641",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a Everon 200*220 EPM 21064",
-        "url_key": "chan-bon-mua-everon-200-220-epm-21064-p62773153",
-        "price": 2350000,
-        "list_price": 2350000,
-        "original_price": 2350000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 42229159,
@@ -10192,7 +10205,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26057122,
@@ -10205,20 +10218,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59237539,
-        "sku": "3124110218524",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*200 Everon ESM 21015",
-        "url_key": "chan-bon-mua-200-200-everon-esm-21015-p59237539",
-        "price": 2320000,
-        "list_price": 2320000,
-        "original_price": 2320000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36391437,
@@ -10260,48 +10260,33 @@
                 "price": 33000000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 29278416,
-        "sku": "9099454040695",
-        "name": "ga chun ch\u1ea7n + 2 v\u1ecf g\u1ed1i Everon EST-20032 160*200 cm",
-        "url_key": "ga-chun-chan-2-vo-goi-everon-est-20032-160-200-cm-p29278416",
-        "price": 2090000,
-        "list_price": 2090000,
-        "original_price": 2090000,
+        "id": 59237539,
+        "sku": "3124110218524",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*200 Everon ESM 21015",
+        "url_key": "chan-bon-mua-200-200-everon-esm-21015-p59237539",
+        "price": 2320000,
+        "list_price": 2320000,
+        "original_price": 2320000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 16537053,
-        "sku": "8085106394019",
-        "name": "B\u1ed9 ch\u0103n ga Everon ES1809(ga ph\u1ee7,v\u1ecf ch\u0103n,v\u1ecf g\u1ed1i)",
-        "url_key": "bo-chan-ga-everon-es1809-ga-phu-vo-chan-vo-goi-p16537053",
-        "price": 4455000,
-        "list_price": 4455000,
-        "original_price": 4455000,
+        "id": 26470447,
+        "sku": "8561967675264",
+        "name": "\u0110\u1ec7m Kim c\u01b0\u01a1ng cao su t\u1ed5ng h\u1ee3p Microtex 120*190*15",
+        "url_key": "dem-kim-cuong-cao-su-tong-hop-microtex-120-190-15-p26470447",
+        "price": 2300000,
+        "list_price": 2300000,
+        "original_price": 2300000,
         "discount": 0,
         "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 16537054,
-                "id": 16537055,
-                "option1": "160*200",
-                "option2": null,
-                "price": 4455000
-            },
-            {
-                "child_id": 16537056,
-                "id": 53498534,
-                "option1": "180*200",
-                "option2": null,
-                "price": 4550000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 27861520,
@@ -10329,20 +10314,48 @@
                 "price": 32920000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 26470447,
-        "sku": "8561967675264",
-        "name": "\u0110\u1ec7m Kim c\u01b0\u01a1ng cao su t\u1ed5ng h\u1ee3p Microtex 120*190*15",
-        "url_key": "dem-kim-cuong-cao-su-tong-hop-microtex-120-190-15-p26470447",
-        "price": 2300000,
-        "list_price": 2300000,
-        "original_price": 2300000,
+        "id": 16537053,
+        "sku": "8085106394019",
+        "name": "B\u1ed9 ch\u0103n ga Everon ES1809(ga ph\u1ee7,v\u1ecf ch\u0103n,v\u1ecf g\u1ed1i)",
+        "url_key": "bo-chan-ga-everon-es1809-ga-phu-vo-chan-vo-goi-p16537053",
+        "price": 4455000,
+        "list_price": 4455000,
+        "original_price": 4455000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 16537054,
+                "id": 16537055,
+                "option1": "160*200",
+                "option2": null,
+                "price": 4455000
+            },
+            {
+                "child_id": 16537056,
+                "id": 53498534,
+                "option1": "180*200",
+                "option2": null,
+                "price": 4550000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 29278416,
+        "sku": "9099454040695",
+        "name": "ga chun ch\u1ea7n + 2 v\u1ecf g\u1ed1i Everon EST-20032 160*200 cm",
+        "url_key": "ga-chun-chan-2-vo-goi-everon-est-20032-160-200-cm-p29278416",
+        "price": 2090000,
+        "list_price": 2090000,
+        "original_price": 2090000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59489344,
@@ -10377,7 +10390,7 @@
                 "price": 1410000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33577992,
@@ -10419,7 +10432,20 @@
                 "price": 5250000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26054984,
+        "sku": "2464583667070",
+        "name": "b\u1ed9 b\u1ed1n m\u00f9a Everon ESM 19014 ( ga ph\u1ee7+ ch\u0103n b\u1ed1n m\u00f9a+  2 v\u1ecf g\u1ed1i) 200*220",
+        "url_key": "bo-bon-mua-everon-esm-19014-ga-phu-chan-bon-mua-2-vo-goi-200-220-p26054984",
+        "price": 4716000,
+        "list_price": 4716000,
+        "original_price": 4716000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37518060,
@@ -10447,33 +10473,7 @@
                 "price": 3850000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26054984,
-        "sku": "2464583667070",
-        "name": "b\u1ed9 b\u1ed1n m\u00f9a Everon ESM 19014 ( ga ph\u1ee7+ ch\u0103n b\u1ed1n m\u00f9a+  2 v\u1ecf g\u1ed1i) 200*220",
-        "url_key": "bo-bon-mua-everon-esm-19014-ga-phu-chan-bon-mua-2-vo-goi-200-220-p26054984",
-        "price": 4716000,
-        "list_price": 4716000,
-        "original_price": 4716000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 14901642,
-        "sku": "2760489784867",
-        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p Everon 160*195*15",
-        "url_key": "dem-bong-ep-everon-160-195-15-p14901642",
-        "price": 4600000,
-        "list_price": 4600000,
-        "original_price": 4600000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59112639,
@@ -10501,20 +10501,7 @@
                 "price": 4600000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26246541,
-        "sku": "8322914214345",
-        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p ch\u1ed1ng tr\u01b0\u1ee3t Everon 160*195*15",
-        "url_key": "dem-bong-ep-chong-truot-everon-160-195-15-p26246541",
-        "price": 4600000,
-        "list_price": 4600000,
-        "original_price": 4600000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11506659,
@@ -10535,7 +10522,20 @@
                 "price": 2079000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26246541,
+        "sku": "8322914214345",
+        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p ch\u1ed1ng tr\u01b0\u1ee3t Everon 160*195*15",
+        "url_key": "dem-bong-ep-chong-truot-everon-160-195-15-p26246541",
+        "price": 4600000,
+        "list_price": 4600000,
+        "original_price": 4600000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517639,
@@ -10563,7 +10563,20 @@
                 "price": 4650000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 14901642,
+        "sku": "2760489784867",
+        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p Everon 160*195*15",
+        "url_key": "dem-bong-ep-everon-160-195-15-p14901642",
+        "price": 4600000,
+        "list_price": 4600000,
+        "original_price": 4600000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62289228,
@@ -10576,7 +10589,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25985516,
@@ -10589,7 +10602,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59548917,
@@ -10602,7 +10615,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25980738,
@@ -10615,33 +10628,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 11883160,
-        "sku": "7897857785111",
-        "name": "Th\u1ea3m tr\u1ea3i s\u00e0n bali cao c\u1ea5p 1.6m x 2.3m",
-        "url_key": "tham-trai-san-bali-cao-cap-1-6m-x-2-3m-p11883160",
-        "price": 445000,
-        "list_price": 445000,
-        "original_price": 445000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 32874203,
-        "sku": "2197619420973",
-        "name": "G\u1ed1i masage B Kim C\u01b0\u01a1ng 37x63cm",
-        "url_key": "goi-masage-b-kim-cuong-37x63cm-p32874203",
-        "price": 595000,
-        "list_price": 595000,
-        "original_price": 595000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 60037745,
@@ -10676,7 +10663,7 @@
                 "price": 2130000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 60066801,
@@ -10689,33 +10676,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 26054049,
-        "sku": "2703418676666",
-        "name": "b\u1ed9 ga ph\u1ee7 Everon ESM 19014 (ga ph\u1ee7+ v\u1ecf ch\u0103n+ 2 v\u1ecf g\u1ed1i) 180*200",
-        "url_key": "bo-ga-phu-everon-esm-19014-ga-phu-vo-chan-2-vo-goi-180-200-p26054049",
-        "price": 4311000,
-        "list_price": 4311000,
-        "original_price": 4311000,
+        "id": 32874203,
+        "sku": "2197619420973",
+        "name": "G\u1ed1i masage B Kim C\u01b0\u01a1ng 37x63cm",
+        "url_key": "goi-masage-b-kim-cuong-37x63cm-p32874203",
+        "price": 595000,
+        "list_price": 595000,
+        "original_price": 595000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59226177,
-        "sku": "8665754840658",
-        "name": "V\u1ecf ch\u0103n 200*220 Everon ESM 21014",
-        "url_key": "vo-chan-200-220-everon-esm-21014-p59226177",
-        "price": 2150000,
-        "list_price": 2150000,
-        "original_price": 2150000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67517375,
@@ -10771,20 +10745,7 @@
                 "price": 5150000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 62814582,
-        "sku": "3445809539226",
-        "name": "V\u1ecf g\u1ed1i Everon 45*65 EPM 21065",
-        "url_key": "vo-goi-everon-45-65-epm-21065-p62814582",
-        "price": 325000,
-        "list_price": 325000,
-        "original_price": 325000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 2328669,
@@ -10797,20 +10758,33 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 26496354,
-        "sku": "3774553751944",
-        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess masage 200*220*15",
-        "url_key": "dem-kim-cuong-princess-masage-200-220-15-p26496354",
-        "price": 18060000,
-        "list_price": 18060000,
-        "original_price": 18060000,
+        "id": 62814582,
+        "sku": "3445809539226",
+        "name": "V\u1ecf g\u1ed1i Everon 45*65 EPM 21065",
+        "url_key": "vo-goi-everon-45-65-epm-21065-p62814582",
+        "price": 325000,
+        "list_price": 325000,
+        "original_price": 325000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59226177,
+        "sku": "8665754840658",
+        "name": "V\u1ecf ch\u0103n 200*220 Everon ESM 21014",
+        "url_key": "vo-chan-200-220-everon-esm-21014-p59226177",
+        "price": 2150000,
+        "list_price": 2150000,
+        "original_price": 2150000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62433267,
@@ -10823,7 +10797,33 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26054049,
+        "sku": "2703418676666",
+        "name": "b\u1ed9 ga ph\u1ee7 Everon ESM 19014 (ga ph\u1ee7+ v\u1ecf ch\u0103n+ 2 v\u1ecf g\u1ed1i) 180*200",
+        "url_key": "bo-ga-phu-everon-esm-19014-ga-phu-vo-chan-2-vo-goi-180-200-p26054049",
+        "price": 4311000,
+        "list_price": 4311000,
+        "original_price": 4311000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26496354,
+        "sku": "3774553751944",
+        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess masage 200*220*15",
+        "url_key": "dem-kim-cuong-princess-masage-200-220-15-p26496354",
+        "price": 18060000,
+        "list_price": 18060000,
+        "original_price": 18060000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62806618,
@@ -10836,7 +10836,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26050402,
@@ -10849,7 +10849,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 14901286,
@@ -10862,7 +10862,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62652913,
@@ -10875,7 +10875,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62747097,
@@ -10888,7 +10888,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26049400,
@@ -10901,7 +10901,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59226334,
@@ -10914,7 +10914,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 38118438,
@@ -10927,7 +10927,46 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59077810,
+        "sku": "6747457746993",
+        "name": "V\u1ecf g\u1ed1i 45*65 Everon ESM 21012",
+        "url_key": "vo-goi-45-65-everon-esm-21012-p59077810",
+        "price": 305000,
+        "list_price": 305000,
+        "original_price": 305000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26679740,
+        "sku": "8801729745522",
+        "name": "T\u1ea5m b\u1ea3o v\u1ec7 \u0111\u1ec7m h\u00e0ng xu\u1ea5t kh\u1ea9u ti\u00eau chu\u1ea9n ch\u00e2u \u00e2u 160*200",
+        "url_key": "tam-bao-ve-dem-hang-xuat-khau-tieu-chuan-chau-au-160-200-p26679740",
+        "price": 800000,
+        "list_price": 800000,
+        "original_price": 800000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 63164919,
+        "sku": "2824804016146",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*220 Everon EPM 21068",
+        "url_key": "chan-bon-mua-200-220-everon-epm-21068-p63164919",
+        "price": 2280000,
+        "list_price": 2280000,
+        "original_price": 2280000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67545578,
@@ -10983,98 +11022,7 @@
                 "price": 4900000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59077810,
-        "sku": "6747457746993",
-        "name": "V\u1ecf g\u1ed1i 45*65 Everon ESM 21012",
-        "url_key": "vo-goi-45-65-everon-esm-21012-p59077810",
-        "price": 305000,
-        "list_price": 305000,
-        "original_price": 305000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26679740,
-        "sku": "8801729745522",
-        "name": "T\u1ea5m b\u1ea3o v\u1ec7 \u0111\u1ec7m h\u00e0ng xu\u1ea5t kh\u1ea9u ti\u00eau chu\u1ea9n ch\u00e2u \u00e2u 160*200",
-        "url_key": "tam-bao-ve-dem-hang-xuat-khau-tieu-chuan-chau-au-160-200-p26679740",
-        "price": 800000,
-        "list_price": 800000,
-        "original_price": 800000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26653469,
-        "sku": "7671714016279",
-        "name": "Topper b\u1ea3o v\u1ec7 \u0111\u1ec7m Kim c\u01b0\u01a1ng  180*200",
-        "url_key": "topper-bao-ve-dem-kim-cuong-180-200-p26653469",
-        "price": 1780000,
-        "list_price": 1780000,
-        "original_price": 1780000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 63164919,
-        "sku": "2824804016146",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*220 Everon EPM 21068",
-        "url_key": "chan-bon-mua-200-220-everon-epm-21068-p63164919",
-        "price": 2280000,
-        "list_price": 2280000,
-        "original_price": 2280000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26492717,
-        "sku": "4090879717730",
-        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess masage 160*200*15",
-        "url_key": "dem-kim-cuong-princess-masage-160-200-15-p26492717",
-        "price": 12869000,
-        "list_price": 12869000,
-        "original_price": 12869000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 60033803,
-        "sku": "2145722298231",
-        "name": "Ch\u0103n h\u00e8 Everon 180*220 EST 21037",
-        "url_key": "chan-he-everon-180-220-est-21037-p60033803",
-        "price": 1980000,
-        "list_price": 1980000,
-        "original_price": 1980000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26675250,
-        "sku": "6644148193053",
-        "name": "T\u1ea5m b\u1ea3o v\u1ec7 \u0111\u1ec7m h\u00e0ng xu\u1ea5t kh\u1ea9u ti\u00eau chu\u1ea9n ch\u00e2u \u00e2u 180*200",
-        "url_key": "tam-bao-ve-dem-hang-xuat-khau-tieu-chuan-chau-au-180-200-p26675250",
-        "price": 800000,
-        "list_price": 800000,
-        "original_price": 800000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26466595,
@@ -11087,7 +11035,59 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26653469,
+        "sku": "7671714016279",
+        "name": "Topper b\u1ea3o v\u1ec7 \u0111\u1ec7m Kim c\u01b0\u01a1ng  180*200",
+        "url_key": "topper-bao-ve-dem-kim-cuong-180-200-p26653469",
+        "price": 1780000,
+        "list_price": 1780000,
+        "original_price": 1780000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 60033803,
+        "sku": "2145722298231",
+        "name": "Ch\u0103n h\u00e8 Everon 180*220 EST 21037",
+        "url_key": "chan-he-everon-180-220-est-21037-p60033803",
+        "price": 1980000,
+        "list_price": 1980000,
+        "original_price": 1980000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26675250,
+        "sku": "6644148193053",
+        "name": "T\u1ea5m b\u1ea3o v\u1ec7 \u0111\u1ec7m h\u00e0ng xu\u1ea5t kh\u1ea9u ti\u00eau chu\u1ea9n ch\u00e2u \u00e2u 180*200",
+        "url_key": "tam-bao-ve-dem-hang-xuat-khau-tieu-chuan-chau-au-180-200-p26675250",
+        "price": 800000,
+        "list_price": 800000,
+        "original_price": 800000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26492717,
+        "sku": "4090879717730",
+        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess masage 160*200*15",
+        "url_key": "dem-kim-cuong-princess-masage-160-200-15-p26492717",
+        "price": 12869000,
+        "list_price": 12869000,
+        "original_price": 12869000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62738389,
@@ -11100,7 +11100,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59471174,
@@ -11113,7 +11113,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59083604,
@@ -11126,7 +11126,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 28927329,
@@ -11139,7 +11139,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25984680,
@@ -11152,7 +11152,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 794973,
@@ -11165,68 +11165,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 59106463,
-        "sku": "6449972087239",
-        "name": "V\u1ecf ch\u0103n 200*220 Everon ESM 21011",
-        "url_key": "vo-chan-200-220-everon-esm-21011-p59106463",
-        "price": 1720000,
-        "list_price": 1720000,
-        "original_price": 1720000,
+        "id": 26485052,
+        "sku": "6483207564539",
+        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess gold 200*220*10",
+        "url_key": "dem-kim-cuong-princess-gold-200-220-10-p26485052",
+        "price": 11752000,
+        "list_price": 11752000,
+        "original_price": 11752000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59226652,
-        "sku": "2420745421256",
-        "name": "Ga chun ch\u1ea7n everon ESM21014",
-        "url_key": "ga-chun-chan-everon-esm21014-p59226652",
-        "price": 1370000,
-        "list_price": 1370000,
-        "original_price": 1370000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 59226655,
-                "id": 63614995,
-                "option1": "180*200",
-                "option2": null,
-                "price": 1470000
-            },
-            {
-                "child_id": 59226653,
-                "id": 63614337,
-                "option1": "160*200",
-                "option2": null,
-                "price": 1370000
-            },
-            {
-                "child_id": 59226657,
-                "id": 63614632,
-                "option1": "200*220",
-                "option2": null,
-                "price": 1720000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 62766623,
-        "sku": "2910609072101",
-        "name": "V\u1ecf g\u1ed1i Everon 45*65 EPM 21064",
-        "url_key": "vo-goi-everon-45-65-epm-21064-p62766623",
-        "price": 355000,
-        "list_price": 355000,
-        "original_price": 355000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67673962,
@@ -11282,7 +11234,7 @@
                 "price": 7499000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62744756,
@@ -11295,7 +11247,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 60029177,
@@ -11308,33 +11260,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26485052,
-        "sku": "6483207564539",
-        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess gold 200*220*10",
-        "url_key": "dem-kim-cuong-princess-gold-200-220-10-p26485052",
-        "price": 11752000,
-        "list_price": 11752000,
-        "original_price": 11752000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59491156,
-        "sku": "1637219524219",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a Everon 200*220 EST 21035",
-        "url_key": "chan-bon-mua-everon-200-220-est-21035-p59491156",
-        "price": 2290000,
-        "list_price": 2290000,
-        "original_price": 2290000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33619241,
@@ -11376,7 +11302,81 @@
                 "price": 4940000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59226652,
+        "sku": "2420745421256",
+        "name": "Ga chun ch\u1ea7n everon ESM21014",
+        "url_key": "ga-chun-chan-everon-esm21014-p59226652",
+        "price": 1370000,
+        "list_price": 1370000,
+        "original_price": 1370000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 59226655,
+                "id": 63614995,
+                "option1": "180*200",
+                "option2": null,
+                "price": 1470000
+            },
+            {
+                "child_id": 59226653,
+                "id": 63614337,
+                "option1": "160*200",
+                "option2": null,
+                "price": 1370000
+            },
+            {
+                "child_id": 59226657,
+                "id": 63614632,
+                "option1": "200*220",
+                "option2": null,
+                "price": 1720000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59106463,
+        "sku": "6449972087239",
+        "name": "V\u1ecf ch\u0103n 200*220 Everon ESM 21011",
+        "url_key": "vo-chan-200-220-everon-esm-21011-p59106463",
+        "price": 1720000,
+        "list_price": 1720000,
+        "original_price": 1720000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 62766623,
+        "sku": "2910609072101",
+        "name": "V\u1ecf g\u1ed1i Everon 45*65 EPM 21064",
+        "url_key": "vo-goi-everon-45-65-epm-21064-p62766623",
+        "price": 355000,
+        "list_price": 355000,
+        "original_price": 355000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59491156,
+        "sku": "1637219524219",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a Everon 200*220 EST 21035",
+        "url_key": "chan-bon-mua-everon-200-220-est-21035-p59491156",
+        "price": 2290000,
+        "list_price": 2290000,
+        "original_price": 2290000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 41436661,
@@ -11467,62 +11467,7 @@
                 "price": 420000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 1055746,
-        "sku": "3950728242435",
-        "name": "N\u1ec7m Cao Su Li\u00ean \u00c1 Classic LACS1815 (180 x 200 x 15 cm)",
-        "url_key": "nem-cao-su-lien-a-classic-lacs1815-180-x-200-cm-p1055746",
-        "price": 16880000,
-        "list_price": 16880000,
-        "original_price": 16880000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 33591615,
-        "sku": "5386871112819",
-        "name": "B\u1ed9 ch\u0103n ga Everon EPT20045(ga ph\u1ee7,ch\u0103n,2 v\u1ecf g\u1ed1i 45*65)",
-        "url_key": "bo-chan-ga-everon-ept20045-ga-phu-chan-2-vo-goi-45-65-p33591615",
-        "price": 4600000,
-        "list_price": 4600000,
-        "original_price": 4600000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 33591618,
-                "id": 53496151,
-                "option1": "160*200",
-                "option2": "v\u1ecf ch\u0103n 200*220",
-                "price": 4750000
-            },
-            {
-                "child_id": 33591620,
-                "id": 53496164,
-                "option1": "180*200",
-                "option2": "ch\u0103n h\u00e8 180*220",
-                "price": 4770000
-            },
-            {
-                "child_id": 33591622,
-                "id": 53496161,
-                "option1": "180*200",
-                "option2": "v\u1ecf ch\u0103n 200*220",
-                "price": 4880000
-            },
-            {
-                "child_id": 33591616,
-                "id": 53496131,
-                "option1": "160*200",
-                "option2": "ch\u0103n h\u00e8 180*220",
-                "price": 4600000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 28928684,
@@ -11535,33 +11480,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59471254,
-        "sku": "6709771461402",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a Everon 200*220 EST 21033",
-        "url_key": "chan-bon-mua-everon-200-220-est-21033-p59471254",
-        "price": 2650000,
-        "list_price": 2650000,
-        "original_price": 2650000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 28927786,
-        "sku": "4613492447886",
-        "name": "b\u1ed9 ch\u0103n ga Everon EPM-20067 180*200 cm",
-        "url_key": "bo-chan-ga-everon-epm-20067-180-200-cm-p28927786",
-        "price": 4500000,
-        "list_price": 4500000,
-        "original_price": 4500000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32582243,
@@ -11603,7 +11522,75 @@
                 "price": 5250000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 1055746,
+        "sku": "3950728242435",
+        "name": "N\u1ec7m Cao Su Li\u00ean \u00c1 Classic LACS1815 (180 x 200 x 15 cm)",
+        "url_key": "nem-cao-su-lien-a-classic-lacs1815-180-x-200-cm-p1055746",
+        "price": 16880000,
+        "list_price": 16880000,
+        "original_price": 16880000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 33591615,
+        "sku": "5386871112819",
+        "name": "B\u1ed9 ch\u0103n ga Everon EPT20045(ga ph\u1ee7,ch\u0103n,2 v\u1ecf g\u1ed1i 45*65)",
+        "url_key": "bo-chan-ga-everon-ept20045-ga-phu-chan-2-vo-goi-45-65-p33591615",
+        "price": 4600000,
+        "list_price": 4600000,
+        "original_price": 4600000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 33591618,
+                "id": 53496151,
+                "option1": "160*200",
+                "option2": "v\u1ecf ch\u0103n 200*220",
+                "price": 4750000
+            },
+            {
+                "child_id": 33591620,
+                "id": 53496164,
+                "option1": "180*200",
+                "option2": "ch\u0103n h\u00e8 180*220",
+                "price": 4770000
+            },
+            {
+                "child_id": 33591622,
+                "id": 53496161,
+                "option1": "180*200",
+                "option2": "v\u1ecf ch\u0103n 200*220",
+                "price": 4880000
+            },
+            {
+                "child_id": 33591616,
+                "id": 53496131,
+                "option1": "160*200",
+                "option2": "ch\u0103n h\u00e8 180*220",
+                "price": 4600000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59471254,
+        "sku": "6709771461402",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a Everon 200*220 EST 21033",
+        "url_key": "chan-bon-mua-everon-200-220-est-21033-p59471254",
+        "price": 2650000,
+        "list_price": 2650000,
+        "original_price": 2650000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 27045919,
@@ -11624,20 +11611,20 @@
                 "price": 9900000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 70109534,
-        "sku": "5290091044525",
-        "name": "Ru\u1ed9t ch\u0103n \u0111\u00f4ng Hanvico 200x220",
-        "url_key": "ruot-chan-dong-hanvico-200x220-p70109534",
-        "price": 820000,
-        "list_price": 820000,
-        "original_price": 820000,
+        "id": 28927786,
+        "sku": "4613492447886",
+        "name": "b\u1ed9 ch\u0103n ga Everon EPM-20067 180*200 cm",
+        "url_key": "bo-chan-ga-everon-epm-20067-180-200-cm-p28927786",
+        "price": 4500000,
+        "list_price": 4500000,
+        "original_price": 4500000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59226444,
@@ -11650,20 +11637,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59224446,
-        "sku": "2051603800557",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*200 Everon ESM 21013",
-        "url_key": "chan-bon-mua-200-200-everon-esm-21013-p59224446",
-        "price": 2310000,
-        "list_price": 2310000,
-        "original_price": 2310000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33609435,
@@ -11691,7 +11665,7 @@
                 "price": 3400000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37518030,
@@ -11719,7 +11693,7 @@
                 "price": 3700000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26653543,
@@ -11732,33 +11706,33 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 28972546,
-        "sku": "3233938623417",
-        "name": "b\u1ed9 ch\u0103n ga Everon EST-20031 160*200 cm",
-        "url_key": "bo-chan-ga-everon-est-20031-160-200-cm-p28972546",
-        "price": 5436000,
-        "list_price": 5436000,
-        "original_price": 5436000,
+        "id": 59224446,
+        "sku": "2051603800557",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*200 Everon ESM 21013",
+        "url_key": "chan-bon-mua-200-200-everon-esm-21013-p59224446",
+        "price": 2310000,
+        "list_price": 2310000,
+        "original_price": 2310000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 26054545,
-        "sku": "5064872445753",
-        "name": "b\u1ed9 b\u1ed1n m\u00f9a Everon ESM 19014 ( ga ph\u1ee7+ ch\u0103n b\u1ed1n m\u00f9a) 180*200",
-        "url_key": "bo-bon-mua-everon-esm-19014-ga-phu-chan-bon-mua-180-200-p26054545",
-        "price": 4473000,
-        "list_price": 4473000,
-        "original_price": 4473000,
+        "id": 70109534,
+        "sku": "5290091044525",
+        "name": "Ru\u1ed9t ch\u0103n \u0111\u00f4ng Hanvico 200x220",
+        "url_key": "ruot-chan-dong-hanvico-200x220-p70109534",
+        "price": 820000,
+        "list_price": 820000,
+        "original_price": 820000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29257386,
@@ -11771,20 +11745,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 26493609,
-        "sku": "6030236342227",
-        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess masage 180*200*10",
-        "url_key": "dem-kim-cuong-princess-masage-180-200-10-p26493609",
-        "price": 10489000,
-        "list_price": 10489000,
-        "original_price": 10489000,
+        "id": 28972546,
+        "sku": "3233938623417",
+        "name": "b\u1ed9 ch\u0103n ga Everon EST-20031 160*200 cm",
+        "url_key": "bo-chan-ga-everon-est-20031-160-200-cm-p28972546",
+        "price": 5436000,
+        "list_price": 5436000,
+        "original_price": 5436000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26054218,
@@ -11797,7 +11771,33 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26054545,
+        "sku": "5064872445753",
+        "name": "b\u1ed9 b\u1ed1n m\u00f9a Everon ESM 19014 ( ga ph\u1ee7+ ch\u0103n b\u1ed1n m\u00f9a) 180*200",
+        "url_key": "bo-bon-mua-everon-esm-19014-ga-phu-chan-bon-mua-180-200-p26054545",
+        "price": 4473000,
+        "list_price": 4473000,
+        "original_price": 4473000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26493609,
+        "sku": "6030236342227",
+        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess masage 180*200*10",
+        "url_key": "dem-kim-cuong-princess-masage-180-200-10-p26493609",
+        "price": 10489000,
+        "list_price": 10489000,
+        "original_price": 10489000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26053025,
@@ -11810,7 +11810,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 63166964,
@@ -11823,7 +11823,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 15574695,
@@ -11836,7 +11836,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26480256,
@@ -11849,7 +11849,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 63154210,
@@ -11877,7 +11877,7 @@
                 "price": 2610000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16221556,
@@ -11905,7 +11905,7 @@
                 "price": 290000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62662717,
@@ -11940,7 +11940,7 @@
                 "price": 2640000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26051393,
@@ -11953,7 +11953,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26491612,
@@ -11966,7 +11966,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 67622682,
@@ -12022,7 +12022,7 @@
                 "price": 5040000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26481832,
@@ -12035,7 +12035,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 14888930,
@@ -12048,7 +12048,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59470002,
@@ -12061,7 +12061,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 14901658,
@@ -12074,7 +12074,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59113172,
@@ -12087,7 +12087,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517624,
@@ -12108,7 +12108,7 @@
                 "price": 3680000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 62681987,
@@ -12143,33 +12143,7 @@
                 "price": 2560000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 74572009,
-        "sku": "3629982457182",
-        "name": "B\u00ecnh gi\u1eef nhi\u1ec7t cao c\u1ea5p Everon ( m\u00e0u ng\u1eabu nhi\u00ean )",
-        "url_key": "binh-giu-nhiet-cao-cap-everon-mau-ngau-nhien-p74572009",
-        "price": 290000,
-        "list_price": 290000,
-        "original_price": 290000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26479748,
-        "sku": "8548690229544",
-        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess gold 150*190*10",
-        "url_key": "dem-kim-cuong-princess-gold-150-190-10-p26479748",
-        "price": 7852000,
-        "list_price": 7852000,
-        "original_price": 7852000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59236020,
@@ -12182,20 +12156,41 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 59240027,
-        "sku": "9829921573094",
-        "name": "V\u1ecf ch\u0103n everon 200*220 ESM 21016",
-        "url_key": "vo-chan-everon-200-220-esm-21016-p59240027",
-        "price": 1840000,
-        "list_price": 1840000,
-        "original_price": 1840000,
+        "id": 26478516,
+        "sku": "6482051260581",
+        "name": "B\u1ed9 ch\u0103n ga Everon ESC 20001(ga chun ch\u1ea7n,ch\u0103n,2 v\u1ecf g\u1ed1i)",
+        "url_key": "bo-chan-ga-everon-esc-20001-ga-chun-chan-chan-2-vo-goi-p26478516",
+        "price": 3070000,
+        "list_price": 3070000,
+        "original_price": 3070000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 26478521,
+                "id": 53496140,
+                "option1": "180*200",
+                "option2": "ch\u0103n h\u00e8 180*220",
+                "price": 3070000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59224784,
+        "sku": "6845436879332",
+        "name": "V\u1ecf ch\u0103n 200*220 Everon ESM 21013",
+        "url_key": "vo-chan-200-220-everon-esm-21013-p59224784",
+        "price": 2000000,
+        "list_price": 2000000,
+        "original_price": 2000000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59554018,
@@ -12208,7 +12203,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26477848,
@@ -12221,88 +12216,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 2750571,
-        "sku": "7788874138045",
-        "name": "B\u1ed9 Ch\u0103n Ga G\u1ed1i Cotton \u0110\u0169i - C\u01101817 - M\u00e0u Xanh r\u00eau",
-        "url_key": "bo-chan-ga-goi-cotton-dui-cd1817-mau-xanh-reu-p2750571",
-        "price": 328000,
-        "list_price": 328000,
-        "original_price": 328000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 2750577,
-                "id": 48174990,
-                "option1": "2m2 x 2m",
-                "option2": null,
-                "price": 328000
-            },
-            {
-                "child_id": 2750575,
-                "id": 48174991,
-                "option1": "1m8 x 2m",
-                "option2": null,
-                "price": 328000
-            },
-            {
-                "child_id": 2750877,
-                "id": 48174992,
-                "option1": "1m4 x 2m",
-                "option2": null,
-                "price": 328000
-            },
-            {
-                "child_id": 2750573,
-                "id": 48174993,
-                "option1": "1m6 x 2m",
-                "option2": null,
-                "price": 328000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26464147,
-        "sku": "3004752925083",
-        "name": "\u0110\u1ec7m cao su t\u1ed5ng h\u1ee3p Four D 150*190*12",
-        "url_key": "dem-cao-su-tong-hop-four-d-150-190-12-p26464147",
-        "price": 2745000,
-        "list_price": 2745000,
-        "original_price": 2745000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26478277,
-        "sku": "5095820952351",
-        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess gold 120*200*10",
-        "url_key": "dem-kim-cuong-princess-gold-120-200-10-p26478277",
-        "price": 7180000,
-        "list_price": 7180000,
-        "original_price": 7180000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26459879,
-        "sku": "7152716807084",
-        "name": "\u0111\u1ec7m Kim c\u01b0\u01a1ng cao su t\u1ed5ng h\u1ee3p Jadeitone 160*190*21",
-        "url_key": "dem-kim-cuong-cao-su-tong-hop-jadeitone-160-190-21-p26459879",
-        "price": 3050000,
-        "list_price": 3050000,
-        "original_price": 3050000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33608579,
@@ -12344,171 +12258,127 @@
                 "price": 4280000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 59224784,
-        "sku": "6845436879332",
-        "name": "V\u1ecf ch\u0103n 200*220 Everon ESM 21013",
-        "url_key": "vo-chan-200-220-everon-esm-21013-p59224784",
-        "price": 2000000,
-        "list_price": 2000000,
-        "original_price": 2000000,
+        "id": 26478277,
+        "sku": "5095820952351",
+        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess gold 120*200*10",
+        "url_key": "dem-kim-cuong-princess-gold-120-200-10-p26478277",
+        "price": 7180000,
+        "list_price": 7180000,
+        "original_price": 7180000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 26478516,
-        "sku": "6482051260581",
-        "name": "B\u1ed9 ch\u0103n ga Everon ESC 20001(ga chun ch\u1ea7n,ch\u0103n,2 v\u1ecf g\u1ed1i)",
-        "url_key": "bo-chan-ga-everon-esc-20001-ga-chun-chan-chan-2-vo-goi-p26478516",
-        "price": 3070000,
-        "list_price": 3070000,
-        "original_price": 3070000,
+        "id": 26464147,
+        "sku": "3004752925083",
+        "name": "\u0110\u1ec7m cao su t\u1ed5ng h\u1ee3p Four D 150*190*12",
+        "url_key": "dem-cao-su-tong-hop-four-d-150-190-12-p26464147",
+        "price": 2745000,
+        "list_price": 2745000,
+        "original_price": 2745000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 2750571,
+        "sku": "7788874138045",
+        "name": "B\u1ed9 Ch\u0103n Ga G\u1ed1i Cotton \u0110\u0169i - C\u01101817 - M\u00e0u Xanh r\u00eau",
+        "url_key": "bo-chan-ga-goi-cotton-dui-cd1817-mau-xanh-reu-p2750571",
+        "price": 328000,
+        "list_price": 328000,
+        "original_price": 328000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [
             {
-                "child_id": 26478521,
-                "id": 53496140,
-                "option1": "180*200",
-                "option2": "ch\u0103n h\u00e8 180*220",
-                "price": 3070000
+                "child_id": 2750577,
+                "id": 48174990,
+                "option1": "2m2 x 2m",
+                "option2": null,
+                "price": 328000
+            },
+            {
+                "child_id": 2750575,
+                "id": 48174991,
+                "option1": "1m8 x 2m",
+                "option2": null,
+                "price": 328000
+            },
+            {
+                "child_id": 2750877,
+                "id": 48174992,
+                "option1": "1m4 x 2m",
+                "option2": null,
+                "price": 328000
+            },
+            {
+                "child_id": 2750573,
+                "id": 48174993,
+                "option1": "1m6 x 2m",
+                "option2": null,
+                "price": 328000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 26493211,
-        "sku": "5051598483107",
-        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess masage 180*200*5",
-        "url_key": "dem-kim-cuong-princess-masage-180-200-5-p26493211",
-        "price": 6750000,
-        "list_price": 6750000,
-        "original_price": 6750000,
+        "id": 74572009,
+        "sku": "3629982457182",
+        "name": "B\u00ecnh gi\u1eef nhi\u1ec7t cao c\u1ea5p Everon ( m\u00e0u ng\u1eabu nhi\u00ean )",
+        "url_key": "binh-giu-nhiet-cao-cap-everon-mau-ngau-nhien-p74572009",
+        "price": 290000,
+        "list_price": 290000,
+        "original_price": 290000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 62816903,
-        "sku": "5891115745871",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*220 Everon EPM 21065",
-        "url_key": "chan-bon-mua-200-220-everon-epm-21065-p62816903",
-        "price": 2350000,
-        "list_price": 2350000,
-        "original_price": 2350000,
+        "id": 26479748,
+        "sku": "8548690229544",
+        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess gold 150*190*10",
+        "url_key": "dem-kim-cuong-princess-gold-150-190-10-p26479748",
+        "price": 7852000,
+        "list_price": 7852000,
+        "original_price": 7852000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 62817773,
-        "sku": "9863316889599",
-        "name": "Ch\u0103n h\u00e8 Everon 180*220 EPM 21065",
-        "url_key": "chan-he-everon-180-220-epm-21065-p62817773",
-        "price": 2400000,
-        "list_price": 2400000,
-        "original_price": 2400000,
+        "id": 26459879,
+        "sku": "7152716807084",
+        "name": "\u0111\u1ec7m Kim c\u01b0\u01a1ng cao su t\u1ed5ng h\u1ee3p Jadeitone 160*190*21",
+        "url_key": "dem-kim-cuong-cao-su-tong-hop-jadeitone-160-190-21-p26459879",
+        "price": 3050000,
+        "list_price": 3050000,
+        "original_price": 3050000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 26463896,
-        "sku": "4508699959211",
-        "name": "\u0110\u1ec7m cao su t\u1ed5ng h\u1ee3p Four D 120*190*12",
-        "url_key": "dem-cao-su-tong-hop-four-d-120-190-12-p26463896",
-        "price": 2595000,
-        "list_price": 2595000,
-        "original_price": 2595000,
+        "id": 59240027,
+        "sku": "9829921573094",
+        "name": "V\u1ecf ch\u0103n everon 200*220 ESM 21016",
+        "url_key": "vo-chan-everon-200-220-esm-21016-p59240027",
+        "price": 1840000,
+        "list_price": 1840000,
+        "original_price": 1840000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26053872,
-        "sku": "6273310899785",
-        "name": "b\u1ed9 ga ph\u1ee7 Everon ESM 19014 ( ga ph\u1ee7+ v\u1ecf ch\u0103n + 2 v\u1ecf g\u1ed1i) 160*200",
-        "url_key": "bo-ga-phu-everon-esm-19014-ga-phu-vo-chan-2-vo-goi-160-200-p26053872",
-        "price": 4167000,
-        "list_price": 4167000,
-        "original_price": 4167000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 25985164,
-        "sku": "6276565167227",
-        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p ch\u1ed1ng tr\u01b0\u1ee3t Everon 160*195*9",
-        "url_key": "dem-bong-ep-chong-truot-everon-160-195-9-p25985164",
-        "price": 3016000,
-        "list_price": 3016000,
-        "original_price": 3016000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26482871,
-        "sku": "5982932240653",
-        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess gold 180*200*15",
-        "url_key": "dem-kim-cuong-princess-gold-180-200-15-p26482871",
-        "price": 13470000,
-        "list_price": 13470000,
-        "original_price": 13470000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26465471,
-        "sku": "6036164568166",
-        "name": "\u0110\u1ec7m cao su t\u1ed5ng h\u1ee3p Four D 160*200*12",
-        "url_key": "dem-cao-su-tong-hop-four-d-160-200-12-p26465471",
-        "price": 2895000,
-        "list_price": 2895000,
-        "original_price": 2895000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59141247,
-        "sku": "3044817491689",
-        "name": "V\u1ecf g\u1ed1i Everon 45*65 ESM 21013",
-        "url_key": "vo-goi-everon-45-65-esm-21013-p59141247",
-        "price": 310000,
-        "list_price": 310000,
-        "original_price": 310000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 60062588,
-        "sku": "5934658725600",
-        "name": "V\u1ecf ch\u0103n Everon 200*220 EPT 21041",
-        "url_key": "vo-chan-everon-200-220-ept-21041-p60062588",
-        "price": 2120000,
-        "list_price": 2120000,
-        "original_price": 2120000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59491119,
@@ -12521,20 +12391,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 31671482,
-        "sku": "1446392054891",
-        "name": "Th\u1ea3m Tr\u1ea3i S\u00e0n H\u1ecda Ti\u1ebft 5D Si\u00eau Hot - K\u00edch th\u01b0\u1edbc 160 x 240cm",
-        "url_key": "tham-trai-san-hoa-tiet-5d-sieu-hot-kich-thuoc-160-x-240cm-p31671482",
-        "price": 338000,
-        "list_price": 338000,
-        "original_price": 338000,
+        "id": 28976744,
+        "sku": "6167214688500",
+        "name": "b\u1ed9 ch\u0103n ga Everon EST-20031 180*200 cm",
+        "url_key": "bo-chan-ga-everon-est-20031-180-200-cm-p28976744",
+        "price": 5571000,
+        "list_price": 5571000,
+        "original_price": 5571000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 37517699,
@@ -12562,20 +12432,150 @@
                 "price": 3700000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 28976744,
-        "sku": "6167214688500",
-        "name": "b\u1ed9 ch\u0103n ga Everon EST-20031 180*200 cm",
-        "url_key": "bo-chan-ga-everon-est-20031-180-200-cm-p28976744",
-        "price": 5571000,
-        "list_price": 5571000,
-        "original_price": 5571000,
+        "id": 60062588,
+        "sku": "5934658725600",
+        "name": "V\u1ecf ch\u0103n Everon 200*220 EPT 21041",
+        "url_key": "vo-chan-everon-200-220-ept-21041-p60062588",
+        "price": 2120000,
+        "list_price": 2120000,
+        "original_price": 2120000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26493211,
+        "sku": "5051598483107",
+        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess masage 180*200*5",
+        "url_key": "dem-kim-cuong-princess-masage-180-200-5-p26493211",
+        "price": 6750000,
+        "list_price": 6750000,
+        "original_price": 6750000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 62816903,
+        "sku": "5891115745871",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*220 Everon EPM 21065",
+        "url_key": "chan-bon-mua-200-220-everon-epm-21065-p62816903",
+        "price": 2350000,
+        "list_price": 2350000,
+        "original_price": 2350000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26465471,
+        "sku": "6036164568166",
+        "name": "\u0110\u1ec7m cao su t\u1ed5ng h\u1ee3p Four D 160*200*12",
+        "url_key": "dem-cao-su-tong-hop-four-d-160-200-12-p26465471",
+        "price": 2895000,
+        "list_price": 2895000,
+        "original_price": 2895000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 25985164,
+        "sku": "6276565167227",
+        "name": "\u0110\u1ec7m b\u00f4ng \u00e9p ch\u1ed1ng tr\u01b0\u1ee3t Everon 160*195*9",
+        "url_key": "dem-bong-ep-chong-truot-everon-160-195-9-p25985164",
+        "price": 3016000,
+        "list_price": 3016000,
+        "original_price": 3016000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26482871,
+        "sku": "5982932240653",
+        "name": "\u0111\u1ec7m kim c\u01b0\u01a1ng princess gold 180*200*15",
+        "url_key": "dem-kim-cuong-princess-gold-180-200-15-p26482871",
+        "price": 13470000,
+        "list_price": 13470000,
+        "original_price": 13470000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26053872,
+        "sku": "6273310899785",
+        "name": "b\u1ed9 ga ph\u1ee7 Everon ESM 19014 ( ga ph\u1ee7+ v\u1ecf ch\u0103n + 2 v\u1ecf g\u1ed1i) 160*200",
+        "url_key": "bo-ga-phu-everon-esm-19014-ga-phu-vo-chan-2-vo-goi-160-200-p26053872",
+        "price": 4167000,
+        "list_price": 4167000,
+        "original_price": 4167000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 59141247,
+        "sku": "3044817491689",
+        "name": "V\u1ecf g\u1ed1i Everon 45*65 ESM 21013",
+        "url_key": "vo-goi-everon-45-65-esm-21013-p59141247",
+        "price": 310000,
+        "list_price": 310000,
+        "original_price": 310000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26463896,
+        "sku": "4508699959211",
+        "name": "\u0110\u1ec7m cao su t\u1ed5ng h\u1ee3p Four D 120*190*12",
+        "url_key": "dem-cao-su-tong-hop-four-d-120-190-12-p26463896",
+        "price": 2595000,
+        "list_price": 2595000,
+        "original_price": 2595000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 62817773,
+        "sku": "9863316889599",
+        "name": "Ch\u0103n h\u00e8 Everon 180*220 EPM 21065",
+        "url_key": "chan-he-everon-180-220-epm-21065-p62817773",
+        "price": 2400000,
+        "list_price": 2400000,
+        "original_price": 2400000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 31671482,
+        "sku": "1446392054891",
+        "name": "Th\u1ea3m Tr\u1ea3i S\u00e0n H\u1ecda Ti\u1ebft 5D Si\u00eau Hot - K\u00edch th\u01b0\u1edbc 160 x 240cm",
+        "url_key": "tham-trai-san-hoa-tiet-5d-sieu-hot-kich-thuoc-160-x-240cm-p31671482",
+        "price": 338000,
+        "list_price": 338000,
+        "original_price": 338000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59358347,
@@ -12588,7 +12588,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 63173992,
@@ -12623,7 +12623,7 @@
                 "price": 2500000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20365511,
@@ -12658,7 +12658,7 @@
                 "price": 7760000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 27860742,
@@ -12686,7 +12686,7 @@
                 "price": 18440000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59246410,
@@ -12699,7 +12699,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26052650,
@@ -12712,7 +12712,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26483928,
@@ -12725,7 +12725,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25976365,
@@ -12738,7 +12738,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 63163140,
@@ -12751,7 +12751,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 38118690,
@@ -12764,7 +12764,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25984412,
@@ -12777,7 +12777,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26492135,
@@ -12790,7 +12790,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26495214,
@@ -12803,7 +12803,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26675919,
@@ -12816,7 +12816,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 60032667,
@@ -12829,7 +12829,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29253314,
@@ -12842,20 +12842,33 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 62408296,
-        "sku": "1047549988672",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a Everon 200*220 EPM 21060(m\u00e0u in hoa)",
-        "url_key": "chan-bon-mua-everon-200-220-epm-21060-mau-in-hoa-p62408296",
-        "price": 2290000,
-        "list_price": 2290000,
-        "original_price": 2290000,
+        "id": 62664373,
+        "sku": "3277417437386",
+        "name": "V\u1ecf g\u1ed1i Everon 45*65 EPM 21062",
+        "url_key": "vo-goi-everon-45-65-epm-21062-p62664373",
+        "price": 315000,
+        "list_price": 315000,
+        "original_price": 315000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26494009,
+        "sku": "9083870490493",
+        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess masage 180*200*15",
+        "url_key": "dem-kim-cuong-princess-masage-180-200-15-p26494009",
+        "price": 14550000,
+        "list_price": 14550000,
+        "original_price": 14550000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 28928483,
@@ -12868,20 +12881,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 59553764,
-        "sku": "9478268131117",
-        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*220 EST 21036",
-        "url_key": "chan-bon-mua-200-220-est-21036-p59553764",
-        "price": 2500000,
-        "list_price": 2500000,
-        "original_price": 2500000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26086442,
@@ -12909,20 +12909,33 @@
                 "price": 25223000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 62664373,
-        "sku": "3277417437386",
-        "name": "V\u1ecf g\u1ed1i Everon 45*65 EPM 21062",
-        "url_key": "vo-goi-everon-45-65-epm-21062-p62664373",
-        "price": 315000,
-        "list_price": 315000,
-        "original_price": 315000,
+        "id": 59553764,
+        "sku": "9478268131117",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a 200*220 EST 21036",
+        "url_key": "chan-bon-mua-200-220-est-21036-p59553764",
+        "price": 2500000,
+        "list_price": 2500000,
+        "original_price": 2500000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 62408296,
+        "sku": "1047549988672",
+        "name": "Ch\u0103n b\u1ed1n m\u00f9a Everon 200*220 EPM 21060(m\u00e0u in hoa)",
+        "url_key": "chan-bon-mua-everon-200-220-epm-21060-mau-in-hoa-p62408296",
+        "price": 2290000,
+        "list_price": 2290000,
+        "original_price": 2290000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 29253561,
@@ -12935,19 +12948,6 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26494009,
-        "sku": "9083870490493",
-        "name": "\u0110\u1ec7m kim c\u01b0\u01a1ng princess masage 180*200*15",
-        "url_key": "dem-kim-cuong-princess-masage-180-200-15-p26494009",
-        "price": 14550000,
-        "list_price": 14550000,
-        "original_price": 14550000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     }
 ]

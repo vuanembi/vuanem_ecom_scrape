@@ -10,7 +10,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32720610,
@@ -108,7 +108,7 @@
                 "price": 9665000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318239,
@@ -164,7 +164,7 @@
                 "price": 2867000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 50735077,
@@ -283,7 +283,7 @@
                 "price": 12245000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23846288,
@@ -360,161 +360,7 @@
                 "price": 1650000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 21299377,
-        "sku": "1985051725456",
-        "name": "N\u1ec6M B\u00d4NG \u00c9P G\u1ea4P 3 V\u1ea0N TH\u00c0NH V\u1ea2I TRICAT CHO NG\u01af\u1edcI \u0110AU L\u01afNG",
-        "url_key": "nem-bong-ep-gap-3-van-thanh-vai-tricat-cho-nguoi-dau-lung-p21299377",
-        "price": 1037000,
-        "list_price": 1037000,
-        "original_price": 1037000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 21299378,
-                "id": 31965520,
-                "option1": "100x195x5",
-                "option2": null,
-                "price": 1037000
-            },
-            {
-                "child_id": 21299384,
-                "id": 31965523,
-                "option1": "180x195x5",
-                "option2": null,
-                "price": 1742000
-            },
-            {
-                "child_id": 21299394,
-                "id": 31965528,
-                "option1": "155x195x5",
-                "option2": null,
-                "price": 1530000
-            },
-            {
-                "child_id": 21299382,
-                "id": 31965522,
-                "option1": "140x195x5",
-                "option2": null,
-                "price": 1394000
-            },
-            {
-                "child_id": 21299390,
-                "id": 31965526,
-                "option1": "140x195x10",
-                "option2": null,
-                "price": 2057000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 16348531,
-        "sku": "8243152128600",
-        "name": "N\u1ec7m B\u00f4ng \u00c9p DuPong H\u00e0n Vi\u1ec7t H\u1ea3i (Giao m\u00e0u ng\u1eabu nhi\u00ean)",
-        "url_key": "nem-bong-ep-dupong-han-viet-hai-giao-mau-ngau-nhien-p16348531",
-        "price": 579000,
-        "list_price": 579000,
-        "original_price": 579000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 16348542,
-                "id": 33764630,
-                "option1": "100 x 195 x 9 cm",
-                "option2": null,
-                "price": 685000
-            },
-            {
-                "child_id": 16348534,
-                "id": 4480311,
-                "option1": "120 x 195 x 5 cm",
-                "option2": null,
-                "price": 550000
-            },
-            {
-                "child_id": 16348532,
-                "id": 4480307,
-                "option1": "100 x 195 x 5 cm",
-                "option2": null,
-                "price": 579000
-            },
-            {
-                "child_id": 16348546,
-                "id": 33764612,
-                "option1": "140 x 195 x 9 cm",
-                "option2": null,
-                "price": 785000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 56742299,
-        "sku": "7137227856288",
-        "name": "Gi\u01b0\u1eddng Ng\u1ee7 g\u1ed7 th\u00f4ng cao c\u1ea5p - Thi\u1ebft k\u1ebf hi\u1ec7n \u0111\u1ea1i, ph\u00f9 h\u1ee3p v\u1edbi m\u1ecdi kh\u00f4ng gian ph\u00f2ng ng\u1ee7 - H\u00e0ng b\u1ec1n, \u0111\u1eb9p, ch\u1ea5t l\u01b0\u1ee3ng",
-        "url_key": "giuong-ngu-go-thong-cao-cap-thiet-ke-hien-dai-phu-hop-voi-moi-khong-gian-phong-ngu-hang-ben-dep-chat-luong-p56742299",
-        "price": 4300000,
-        "list_price": 4300000,
-        "original_price": 4300000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 56742300,
-                "id": 56742301,
-                "option1": "1m6x2m",
-                "option2": null,
-                "price": 4300000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 50579949,
-        "sku": "6855640202697",
-        "name": "N\u1ec7m l\u00f2 xo li\u00ean k\u1ebft Adora Perfect 4 vi\u1ec1n",
-        "url_key": "nem-lo-xo-lien-ket-adora-perfect-4-vien-p50579949",
-        "price": 3150000,
-        "list_price": 3150000,
-        "original_price": 3150000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 50579956,
-                "id": 55881452,
-                "option1": "160x200x30cm",
-                "option2": null,
-                "price": 3600000
-            },
-            {
-                "child_id": 50579952,
-                "id": 50579953,
-                "option1": "120x200x30cm",
-                "option2": null,
-                "price": 3150000
-            },
-            {
-                "child_id": 50579954,
-                "id": 50579955,
-                "option1": "140x200x30cm",
-                "option2": null,
-                "price": 3250000
-            },
-            {
-                "child_id": 50579958,
-                "id": 50579959,
-                "option1": "180x200x30cm",
-                "option2": null,
-                "price": 3550000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 33486893,
@@ -612,7 +458,161 @@
                 "price": 15650000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 21299377,
+        "sku": "1985051725456",
+        "name": "N\u1ec6M B\u00d4NG \u00c9P G\u1ea4P 3 V\u1ea0N TH\u00c0NH V\u1ea2I TRICAT CHO NG\u01af\u1edcI \u0110AU L\u01afNG",
+        "url_key": "nem-bong-ep-gap-3-van-thanh-vai-tricat-cho-nguoi-dau-lung-p21299377",
+        "price": 1037000,
+        "list_price": 1037000,
+        "original_price": 1037000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 21299378,
+                "id": 31965520,
+                "option1": "100x195x5",
+                "option2": null,
+                "price": 1037000
+            },
+            {
+                "child_id": 21299384,
+                "id": 31965523,
+                "option1": "180x195x5",
+                "option2": null,
+                "price": 1742000
+            },
+            {
+                "child_id": 21299394,
+                "id": 31965528,
+                "option1": "155x195x5",
+                "option2": null,
+                "price": 1530000
+            },
+            {
+                "child_id": 21299382,
+                "id": 31965522,
+                "option1": "140x195x5",
+                "option2": null,
+                "price": 1394000
+            },
+            {
+                "child_id": 21299390,
+                "id": 31965526,
+                "option1": "140x195x10",
+                "option2": null,
+                "price": 2057000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 16348531,
+        "sku": "8243152128600",
+        "name": "N\u1ec7m B\u00f4ng \u00c9p DuPong H\u00e0n Vi\u1ec7t H\u1ea3i (Giao m\u00e0u ng\u1eabu nhi\u00ean)",
+        "url_key": "nem-bong-ep-dupong-han-viet-hai-giao-mau-ngau-nhien-p16348531",
+        "price": 579000,
+        "list_price": 579000,
+        "original_price": 579000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 16348542,
+                "id": 33764630,
+                "option1": "100 x 195 x 9 cm",
+                "option2": null,
+                "price": 685000
+            },
+            {
+                "child_id": 16348534,
+                "id": 4480311,
+                "option1": "120 x 195 x 5 cm",
+                "option2": null,
+                "price": 550000
+            },
+            {
+                "child_id": 16348532,
+                "id": 4480307,
+                "option1": "100 x 195 x 5 cm",
+                "option2": null,
+                "price": 579000
+            },
+            {
+                "child_id": 16348546,
+                "id": 33764612,
+                "option1": "140 x 195 x 9 cm",
+                "option2": null,
+                "price": 785000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 56742299,
+        "sku": "7137227856288",
+        "name": "Gi\u01b0\u1eddng Ng\u1ee7 g\u1ed7 th\u00f4ng cao c\u1ea5p - Thi\u1ebft k\u1ebf hi\u1ec7n \u0111\u1ea1i, ph\u00f9 h\u1ee3p v\u1edbi m\u1ecdi kh\u00f4ng gian ph\u00f2ng ng\u1ee7 - H\u00e0ng b\u1ec1n, \u0111\u1eb9p, ch\u1ea5t l\u01b0\u1ee3ng",
+        "url_key": "giuong-ngu-go-thong-cao-cap-thiet-ke-hien-dai-phu-hop-voi-moi-khong-gian-phong-ngu-hang-ben-dep-chat-luong-p56742299",
+        "price": 4300000,
+        "list_price": 4300000,
+        "original_price": 4300000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 56742300,
+                "id": 56742301,
+                "option1": "1m6x2m",
+                "option2": null,
+                "price": 4300000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 50579949,
+        "sku": "6855640202697",
+        "name": "N\u1ec7m l\u00f2 xo li\u00ean k\u1ebft Adora Perfect 4 vi\u1ec1n",
+        "url_key": "nem-lo-xo-lien-ket-adora-perfect-4-vien-p50579949",
+        "price": 3150000,
+        "list_price": 3150000,
+        "original_price": 3150000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 50579956,
+                "id": 55881452,
+                "option1": "160x200x30cm",
+                "option2": null,
+                "price": 3600000
+            },
+            {
+                "child_id": 50579952,
+                "id": 50579953,
+                "option1": "120x200x30cm",
+                "option2": null,
+                "price": 3150000
+            },
+            {
+                "child_id": 50579954,
+                "id": 50579955,
+                "option1": "140x200x30cm",
+                "option2": null,
+                "price": 3250000
+            },
+            {
+                "child_id": 50579958,
+                "id": 50579959,
+                "option1": "180x200x30cm",
+                "option2": null,
+                "price": 3550000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23166295,
@@ -647,7 +647,7 @@
                 "price": 3374000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 48255818,
@@ -689,7 +689,7 @@
                 "price": 1050000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20905915,
@@ -871,7 +871,7 @@
                 "price": 17950000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318094,
@@ -906,7 +906,7 @@
                 "price": 14070000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4103647,
@@ -919,7 +919,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23162085,
@@ -968,7 +968,7 @@
                 "price": 6681000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 21188119,
@@ -1052,7 +1052,7 @@
                 "price": 11308500
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22155399,
@@ -1080,7 +1080,7 @@
                 "price": 5796000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23838277,
@@ -1108,7 +1108,7 @@
                 "price": 5950000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1056198,
@@ -1121,7 +1121,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52268537,
@@ -1191,7 +1191,7 @@
                 "price": 3450000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23482047,
@@ -1247,7 +1247,7 @@
                 "price": 14080000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23865189,
@@ -1282,7 +1282,7 @@
                 "price": 2150000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17433890,
@@ -1295,7 +1295,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52637033,
@@ -1323,7 +1323,7 @@
                 "price": 1650000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 54344061,
@@ -1358,7 +1358,7 @@
                 "price": 1800000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 21331876,
@@ -1371,7 +1371,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22136617,
@@ -1462,7 +1462,7 @@
                 "price": 9995000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 12474300,
@@ -1511,7 +1511,7 @@
                 "price": 790000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 15750253,
@@ -1560,7 +1560,7 @@
                 "price": 749000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 10676888,
@@ -1573,7 +1573,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4786021,
@@ -1622,7 +1622,7 @@
                 "price": 840000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 51419012,
@@ -1635,7 +1635,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11458390,
@@ -1684,7 +1684,7 @@
                 "price": 2910000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32878263,
@@ -1719,7 +1719,7 @@
                 "price": 5203800
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4103655,
@@ -1732,7 +1732,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1056196,
@@ -1745,7 +1745,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11846607,
@@ -1787,7 +1787,7 @@
                 "price": 849000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318178,
@@ -1822,7 +1822,7 @@
                 "price": 2570000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11943665,
@@ -1843,7 +1843,7 @@
                 "price": 5600000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318167,
@@ -1871,7 +1871,7 @@
                 "price": 2770000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 21331488,
@@ -1884,7 +1884,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 10597417,
@@ -1897,7 +1897,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 14813248,
@@ -1946,7 +1946,7 @@
                 "price": 12985000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16348548,
@@ -1995,7 +1995,7 @@
                 "price": 4122000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 52639008,
@@ -2044,7 +2044,7 @@
                 "price": 7450000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20935431,
@@ -2072,7 +2072,7 @@
                 "price": 11308500
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32859143,
@@ -2163,7 +2163,7 @@
                 "price": 13200000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23175336,
@@ -2212,7 +2212,7 @@
                 "price": 2772000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22600030,
@@ -2225,7 +2225,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22176509,
@@ -2267,7 +2267,7 @@
                 "price": 1530000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 76208686,
@@ -2316,7 +2316,7 @@
                 "price": 1850000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 4786335,
@@ -2358,7 +2358,7 @@
                 "price": 790000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 12866498,
@@ -2379,7 +2379,7 @@
                 "price": 2431000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 39990632,
@@ -2421,7 +2421,7 @@
                 "price": 5026000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32724741,
@@ -2463,7 +2463,7 @@
                 "price": 15000000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1646349,
@@ -2491,7 +2491,7 @@
                 "price": 2355000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 3834493,
@@ -2504,7 +2504,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 40586731,
@@ -2581,7 +2581,7 @@
                 "price": 15119000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22878171,
@@ -2602,7 +2602,7 @@
                 "price": 11068000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 31892701,
@@ -2651,7 +2651,7 @@
                 "price": 990000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 31892704,
@@ -2700,7 +2700,7 @@
                 "price": 890000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23191695,
@@ -2728,7 +2728,7 @@
                 "price": 4610000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22606808,
@@ -2741,7 +2741,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1056184,
@@ -2754,7 +2754,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 19343156,
@@ -2767,7 +2767,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 43083792,
@@ -2830,7 +2830,7 @@
                 "price": 4150000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318211,
@@ -2858,7 +2858,7 @@
                 "price": 4890000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318179,
@@ -2893,7 +2893,7 @@
                 "price": 2299000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23157776,
@@ -2935,7 +2935,7 @@
                 "price": 4445000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1056202,
@@ -2948,7 +2948,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 19344782,
@@ -2961,7 +2961,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17905300,
@@ -2974,7 +2974,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 53203121,
@@ -3044,7 +3044,7 @@
                 "price": 18130000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 19348957,
@@ -3057,7 +3057,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1056200,
@@ -3070,7 +3070,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32050053,
@@ -3105,7 +3105,7 @@
                 "price": 2740000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36391409,
@@ -3154,7 +3154,7 @@
                 "price": 9287000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1056204,
@@ -3167,7 +3167,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068270,
@@ -3180,7 +3180,35 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 16318200,
+        "sku": "6135988677457",
+        "name": "N\u1ec7m L\u00f2 Xo V\u1ea1n Th\u00e0nh Diamond",
+        "url_key": "nem-lo-xo-van-thanh-diamond-p16318200",
+        "price": 5720000,
+        "list_price": 5720000,
+        "original_price": 5720000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 16318203,
+                "id": 56199587,
+                "option1": "120 x 200 x 30 cm",
+                "option2": null,
+                "price": 6513000
+            },
+            {
+                "child_id": 16318207,
+                "id": 42231140,
+                "option1": "160 x 200 x 30 cm",
+                "option2": null,
+                "price": 7630000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22131962,
@@ -3215,35 +3243,7 @@
                 "price": 9650000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 16318200,
-        "sku": "6135988677457",
-        "name": "N\u1ec7m L\u00f2 Xo V\u1ea1n Th\u00e0nh Diamond",
-        "url_key": "nem-lo-xo-van-thanh-diamond-p16318200",
-        "price": 5720000,
-        "list_price": 5720000,
-        "original_price": 5720000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 16318203,
-                "id": 56199587,
-                "option1": "120 x 200 x 30 cm",
-                "option2": null,
-                "price": 6513000
-            },
-            {
-                "child_id": 16318207,
-                "id": 42231140,
-                "option1": "160 x 200 x 30 cm",
-                "option2": null,
-                "price": 7630000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 44968983,
@@ -3292,7 +3292,7 @@
                 "price": 2219000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 31694996,
@@ -3376,7 +3376,7 @@
                 "price": 4180000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11506319,
@@ -3425,7 +3425,7 @@
                 "price": 990000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11407044,
@@ -3438,7 +3438,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23860038,
@@ -3480,7 +3480,7 @@
                 "price": 2550000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36374710,
@@ -3493,7 +3493,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20018817,
@@ -3570,7 +3570,7 @@
                 "price": 1500000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 69996038,
@@ -3591,7 +3591,7 @@
                 "price": 3500000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 48255760,
@@ -3619,7 +3619,7 @@
                 "price": 2950000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16348567,
@@ -3668,7 +3668,7 @@
                 "price": 6168000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16348617,
@@ -3710,7 +3710,7 @@
                 "price": 5840000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 49031828,
@@ -3759,7 +3759,7 @@
                 "price": 3402000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23250701,
@@ -3843,7 +3843,7 @@
                 "price": 11308500
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068274,
@@ -3856,7 +3856,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 24196833,
@@ -3933,7 +3933,7 @@
                 "price": 9494100
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 76136818,
@@ -3982,7 +3982,7 @@
                 "price": 3150000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 56249835,
@@ -4010,7 +4010,7 @@
                 "price": 4200000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1056186,
@@ -4023,7 +4023,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 36391526,
@@ -4072,7 +4072,7 @@
                 "price": 7307000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1645487,
@@ -4100,7 +4100,7 @@
                 "price": 950000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11218240,
@@ -4113,7 +4113,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318084,
@@ -4148,7 +4148,7 @@
                 "price": 23120000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1055746,
@@ -4161,7 +4161,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 12866514,
@@ -4189,7 +4189,7 @@
                 "price": 2431000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23124130,
@@ -4238,7 +4238,7 @@
                 "price": 4896000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 12214580,
@@ -4280,7 +4280,7 @@
                 "price": 799000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 75570883,
@@ -4329,7 +4329,7 @@
                 "price": 2400000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17596012,
@@ -4342,7 +4342,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20239326,
@@ -4391,7 +4391,7 @@
                 "price": 749000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 34487249,
@@ -4412,7 +4412,7 @@
                 "price": 4689000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318275,
@@ -4440,7 +4440,7 @@
                 "price": 3730000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318222,
@@ -4489,7 +4489,7 @@
                 "price": 2280000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318145,
@@ -4510,7 +4510,7 @@
                 "price": 3574000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22175569,
@@ -4559,7 +4559,7 @@
                 "price": 2558000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 39314680,
@@ -4601,7 +4601,7 @@
                 "price": 5178000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 89395924,
@@ -4650,7 +4650,7 @@
                 "price": 6750000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17597767,
@@ -4663,7 +4663,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 34487365,
@@ -4684,7 +4684,7 @@
                 "price": 11829000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1646021,
@@ -4712,7 +4712,7 @@
                 "price": 1110000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 19601981,
@@ -4725,7 +4725,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17905510,
@@ -4738,7 +4738,35 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 34494209,
+        "sku": "4857265414181",
+        "name": "N\u1ec7m Cao Su  Kim C\u01b0\u01a1ng Happy Gold KCCS1610 (160 x 200 x 10 cm)",
+        "url_key": "nem-cao-su-kim-cuong-happy-gold-kccs1610-160-x-200-x-10-cm-p34494209",
+        "price": 7378000,
+        "list_price": 7378000,
+        "original_price": 7378000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 1056216,
+                "id": 36339742,
+                "option1": "Ru\u1ed9t V\u00e0ng",
+                "option2": null,
+                "price": 8700000
+            },
+            {
+                "child_id": 34285642,
+                "id": 49077820,
+                "option1": "Ru\u1ed9t Tr\u1eafng",
+                "option2": null,
+                "price": 7378000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1056182,
@@ -4751,7 +4779,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32882605,
@@ -4793,7 +4821,7 @@
                 "price": 4120000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068250,
@@ -4806,7 +4834,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22878161,
@@ -4827,7 +4855,7 @@
                 "price": 6126000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 11405642,
@@ -4840,7 +4868,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17880018,
@@ -4853,7 +4881,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22170594,
@@ -4902,35 +4930,7 @@
                 "price": 2210000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 34494209,
-        "sku": "4857265414181",
-        "name": "N\u1ec7m Cao Su  Kim C\u01b0\u01a1ng Happy Gold KCCS1610 (160 x 200 x 10 cm)",
-        "url_key": "nem-cao-su-kim-cuong-happy-gold-kccs1610-160-x-200-x-10-cm-p34494209",
-        "price": 7378000,
-        "list_price": 7378000,
-        "original_price": 7378000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 1056216,
-                "id": 36339742,
-                "option1": "Ru\u1ed9t V\u00e0ng",
-                "option2": null,
-                "price": 8700000
-            },
-            {
-                "child_id": 34285642,
-                "id": 49077820,
-                "option1": "Ru\u1ed9t Tr\u1eafng",
-                "option2": null,
-                "price": 7378000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 21380992,
@@ -4943,7 +4943,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 21379544,
@@ -4956,7 +4956,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 3871077,
@@ -4969,7 +4969,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 19354247,
@@ -4982,7 +4982,28 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 16348580,
+        "sku": "5177253211608",
+        "name": "N\u1ec7m L\u00f2 Xo Dunlopillo Spine-O-Master",
+        "url_key": "nem-lo-xo-dunlopillo-spine-o-master-p16348580",
+        "price": 11068000,
+        "list_price": 11068000,
+        "original_price": 11068000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 16348583,
+                "id": 58931109,
+                "option1": "180 x 200 x 26 cm",
+                "option2": null,
+                "price": 11068000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16348564,
@@ -5010,28 +5031,7 @@
                 "price": 19308000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 16348580,
-        "sku": "5177253211608",
-        "name": "N\u1ec7m L\u00f2 Xo Dunlopillo Spine-O-Master",
-        "url_key": "nem-lo-xo-dunlopillo-spine-o-master-p16348580",
-        "price": 11068000,
-        "list_price": 11068000,
-        "original_price": 11068000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 16348583,
-                "id": 58931109,
-                "option1": "180 x 200 x 26 cm",
-                "option2": null,
-                "price": 11068000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318125,
@@ -5080,7 +5080,7 @@
                 "price": 16900000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068244,
@@ -5093,7 +5093,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068272,
@@ -5106,7 +5106,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318135,
@@ -5148,7 +5148,7 @@
                 "price": 4536000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 19600231,
@@ -5161,7 +5161,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068268,
@@ -5174,7 +5174,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 3881613,
@@ -5187,7 +5187,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23195778,
@@ -5236,7 +5236,7 @@
                 "price": 2950000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068246,
@@ -5249,7 +5249,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17596275,
@@ -5262,7 +5262,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 39991981,
@@ -5318,7 +5318,7 @@
                 "price": 7175700
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 31892693,
@@ -5367,7 +5367,7 @@
                 "price": 840000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 19600792,
@@ -5380,7 +5380,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22172736,
@@ -5429,7 +5429,7 @@
                 "price": 2686000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26663806,
@@ -5442,7 +5442,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068252,
@@ -5455,7 +5455,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 32877150,
@@ -5511,7 +5511,7 @@
                 "price": 4200000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17812253,
@@ -5524,7 +5524,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318286,
@@ -5566,7 +5566,7 @@
                 "price": 6310000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17596674,
@@ -5579,7 +5579,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 34493887,
@@ -5600,7 +5600,7 @@
                 "price": 6668000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 17604046,
@@ -5613,7 +5613,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 34487854,
@@ -5634,7 +5634,7 @@
                 "price": 3505000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22878176,
@@ -5662,7 +5662,7 @@
                 "price": 5223000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1055830,
@@ -5675,7 +5675,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22878181,
@@ -5696,7 +5696,7 @@
                 "price": 19308000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 50570447,
@@ -5745,20 +5745,7 @@
                 "price": 4150000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 11856188,
-        "sku": "5039012569873",
-        "name": "N\u1ec7m b\u00f4ng \u00e9p Korea 180 x 200 x 10cm - Giao m\u00e0u ng\u1eabu nhi\u00ean",
-        "url_key": "nem-bong-ep-korea-180-x-200-x-10cm-giao-mau-ngau-nhien-p11856188",
-        "price": 999000,
-        "list_price": 999000,
-        "original_price": 999000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 3834125,
@@ -5771,7 +5758,20 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 11856188,
+        "sku": "5039012569873",
+        "name": "N\u1ec7m b\u00f4ng \u00e9p Korea 180 x 200 x 10cm - Giao m\u00e0u ng\u1eabu nhi\u00ean",
+        "url_key": "nem-bong-ep-korea-180-x-200-x-10cm-giao-mau-ngau-nhien-p11856188",
+        "price": 999000,
+        "list_price": 999000,
+        "original_price": 999000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 19600518,
@@ -5784,7 +5784,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318233,
@@ -5819,7 +5819,7 @@
                 "price": 8050000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23133335,
@@ -5868,7 +5868,7 @@
                 "price": 5414000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068278,
@@ -5881,7 +5881,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318308,
@@ -5930,7 +5930,7 @@
                 "price": 9056000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 3898255,
@@ -5943,7 +5943,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068264,
@@ -5956,7 +5956,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 16318297,
@@ -6005,7 +6005,7 @@
                 "price": 7040000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 95925881,
@@ -6033,7 +6033,7 @@
                 "price": 5950000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 34484100,
@@ -6054,7 +6054,28 @@
                 "price": 3850000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 34487493,
+        "sku": "4268254299779",
+        "name": "N\u1ec7m Cao Su  Kim C\u01b0\u01a1ng Happy Gold KCCS1210 (120 x 200 x 10 cm)",
+        "url_key": "nem-cao-su-kim-cuong-happy-gold-kccs1210-120-x-200-x-10-cm-p34487493",
+        "price": 5768000,
+        "list_price": 5768000,
+        "original_price": 5768000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 34285633,
+                "id": 49077818,
+                "option1": "Ru\u1ed9t Tr\u1eafng",
+                "option2": null,
+                "price": 5768000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59071164,
@@ -6103,28 +6124,7 @@
                 "price": 12340000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 34487493,
-        "sku": "4268254299779",
-        "name": "N\u1ec7m Cao Su  Kim C\u01b0\u01a1ng Happy Gold KCCS1210 (120 x 200 x 10 cm)",
-        "url_key": "nem-cao-su-kim-cuong-happy-gold-kccs1210-120-x-200-x-10-cm-p34487493",
-        "price": 5768000,
-        "list_price": 5768000,
-        "original_price": 5768000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 34285633,
-                "id": 49077818,
-                "option1": "Ru\u1ed9t Tr\u1eafng",
-                "option2": null,
-                "price": 5768000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 21198714,
@@ -6137,28 +6137,28 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 34492085,
-        "sku": "8632841714543",
-        "name": "N\u1ec7m Cao Su Happy Gold Kim C\u01b0\u01a1ng KCCS145 (140 x 200 x 5 cm)",
-        "url_key": "nem-cao-su-happy-gold-kim-cuong-kccs145-140-x-200-x-5-cm-p34492085",
-        "price": 4505000,
-        "list_price": 4505000,
-        "original_price": 4505000,
+        "id": 34493219,
+        "sku": "9840641484590",
+        "name": "N\u1ec7m Cao Su Kim C\u01b0\u01a1ng Happy Gold KCCS1810 (180 x 200 x 10 cm)",
+        "url_key": "nem-cao-su-kim-cuong-happy-gold-kccs1810-180-x-200-x-10-cm-p34493219",
+        "price": 8405000,
+        "list_price": 8405000,
+        "original_price": 8405000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [
             {
-                "child_id": 34285631,
-                "id": 49077819,
+                "child_id": 34285638,
+                "id": 49077824,
                 "option1": "Ru\u1ed9t Tr\u1eafng",
                 "option2": null,
-                "price": 4505000
+                "price": 8405000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 26086452,
@@ -6186,28 +6186,28 @@
                 "price": 33377000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 34493219,
-        "sku": "9840641484590",
-        "name": "N\u1ec7m Cao Su Kim C\u01b0\u01a1ng Happy Gold KCCS1810 (180 x 200 x 10 cm)",
-        "url_key": "nem-cao-su-kim-cuong-happy-gold-kccs1810-180-x-200-x-10-cm-p34493219",
-        "price": 8405000,
-        "list_price": 8405000,
-        "original_price": 8405000,
+        "id": 34492085,
+        "sku": "8632841714543",
+        "name": "N\u1ec7m Cao Su Happy Gold Kim C\u01b0\u01a1ng KCCS145 (140 x 200 x 5 cm)",
+        "url_key": "nem-cao-su-happy-gold-kim-cuong-kccs145-140-x-200-x-5-cm-p34492085",
+        "price": 4505000,
+        "list_price": 4505000,
+        "original_price": 4505000,
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [
             {
-                "child_id": 34285638,
-                "id": 49077824,
+                "child_id": 34285631,
+                "id": 49077819,
                 "option1": "Ru\u1ed9t Tr\u1eafng",
                 "option2": null,
-                "price": 8405000
+                "price": 4505000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1646307,
@@ -6235,7 +6235,7 @@
                 "price": 1410000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068258,
@@ -6248,7 +6248,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 34488704,
@@ -6269,7 +6269,7 @@
                 "price": 10325700
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22607446,
@@ -6282,7 +6282,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22878225,
@@ -6303,7 +6303,7 @@
                 "price": 13293000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23182380,
@@ -6331,7 +6331,7 @@
                 "price": 6990000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068256,
@@ -6344,7 +6344,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 1068260,
@@ -6357,7 +6357,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 20616180,
@@ -6392,7 +6392,7 @@
                 "price": 11991000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 22600374,
@@ -6405,7 +6405,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 59071629,
@@ -6433,115 +6433,7 @@
                 "price": 48615000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 11405602,
-        "sku": "8049869050858",
-        "name": "N\u1ec7m cao su Kim C\u01b0\u01a1ng 5\u2019ZONE ALOE 160 x 200 x 10cm",
-        "url_key": "nem-cao-su-kim-cuong-5-zone-aloe-160-x-200-x-10cm-p11405602",
-        "price": 9494100,
-        "list_price": 9494100,
-        "original_price": 9494100,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 1068254,
-        "sku": "3953150324830",
-        "name": "N\u1ec7m B\u00f4ng \u00c9p G\u1ea5p 3 Edena EDN149 (140 x 195 x 9 cm)",
-        "url_key": "nem-bong-ep-gap-3-edena-edn149-140-x-195-x-9-cm-p1068254",
-        "price": 2470000,
-        "list_price": 2470000,
-        "original_price": 2470000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 1646179,
-        "sku": "9589326555445",
-        "name": "N\u1ec7m B\u00f4ng \u00c9p Fantasy V\u1ea1n Th\u00e0nh (140 x 195 cm) - M\u00e0u Ng\u1eabu Nhi\u00ean",
-        "url_key": "nem-bong-ep-fantasy-van-thanh-140-x-195-cm-mau-ngau-nhien-p1646179",
-        "price": 1280000,
-        "list_price": 1280000,
-        "original_price": 1280000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 1646181,
-                "id": 1661315,
-                "option1": "140 x 195 x 5 cm",
-                "option2": null,
-                "price": 1280000
-            },
-            {
-                "child_id": 1646183,
-                "id": 1661317,
-                "option1": "140 x 195 x 9cm",
-                "option2": null,
-                "price": 1900000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 26086442,
-        "sku": "3164567931881",
-        "name": "N\u1ec7m L\u00f2 Xo Dunlopillo Evita - New",
-        "url_key": "nem-lo-xo-dunlopillo-evita-new-p26086442",
-        "price": 25223000,
-        "list_price": 25223000,
-        "original_price": 25223000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 26086445,
-                "id": 58931606,
-                "option1": "180 x 200 x 28cm",
-                "option2": null,
-                "price": 27395000
-            },
-            {
-                "child_id": 26086443,
-                "id": 58931484,
-                "option1": "160 x 200 x 28cm",
-                "option2": null,
-                "price": 25223000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 1068266,
-        "sku": "3953703935759",
-        "name": "N\u1ec7m B\u00f4ng \u00c9p G\u1ea5p 3 Edena EDN1814 (180 x 195 x 14 cm)",
-        "url_key": "nem-bong-ep-gap-3-edena-edn1814-180-x-195-x-14-cm-p1068266",
-        "price": 4479000,
-        "list_price": 4479000,
-        "original_price": 4479000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 1068276,
-        "sku": "3958810615419",
-        "name": "N\u1ec7m B\u00f4ng \u00c9p G\u1ea5p 3 Ch\u1ea7n G\u00f2n Edena EDCG1615 (160 x 195 x 15 cm) - M\u00e0u Ng\u1eabu Nhi\u00ean",
-        "url_key": "nem-bong-ep-gap-3-chan-gon-edena-edcg1615-160-x-195-x-15-cm-p1068276",
-        "price": 4630000,
-        "list_price": 4630000,
-        "original_price": 4630000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 21381086,
@@ -6554,7 +6446,7 @@
         "discount": 0,
         "discount_rate": 0,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 23189827,
@@ -6603,6 +6495,114 @@
                 "price": 9280000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 1068266,
+        "sku": "3953703935759",
+        "name": "N\u1ec7m B\u00f4ng \u00c9p G\u1ea5p 3 Edena EDN1814 (180 x 195 x 14 cm)",
+        "url_key": "nem-bong-ep-gap-3-edena-edn1814-180-x-195-x-14-cm-p1068266",
+        "price": 4479000,
+        "list_price": 4479000,
+        "original_price": 4479000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 1068276,
+        "sku": "3958810615419",
+        "name": "N\u1ec7m B\u00f4ng \u00c9p G\u1ea5p 3 Ch\u1ea7n G\u00f2n Edena EDCG1615 (160 x 195 x 15 cm) - M\u00e0u Ng\u1eabu Nhi\u00ean",
+        "url_key": "nem-bong-ep-gap-3-chan-gon-edena-edcg1615-160-x-195-x-15-cm-p1068276",
+        "price": 4630000,
+        "list_price": 4630000,
+        "original_price": 4630000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 11405602,
+        "sku": "8049869050858",
+        "name": "N\u1ec7m cao su Kim C\u01b0\u01a1ng 5\u2019ZONE ALOE 160 x 200 x 10cm",
+        "url_key": "nem-cao-su-kim-cuong-5-zone-aloe-160-x-200-x-10cm-p11405602",
+        "price": 9494100,
+        "list_price": 9494100,
+        "original_price": 9494100,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 1646179,
+        "sku": "9589326555445",
+        "name": "N\u1ec7m B\u00f4ng \u00c9p Fantasy V\u1ea1n Th\u00e0nh (140 x 195 cm) - M\u00e0u Ng\u1eabu Nhi\u00ean",
+        "url_key": "nem-bong-ep-fantasy-van-thanh-140-x-195-cm-mau-ngau-nhien-p1646179",
+        "price": 1280000,
+        "list_price": 1280000,
+        "original_price": 1280000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 1646181,
+                "id": 1661315,
+                "option1": "140 x 195 x 5 cm",
+                "option2": null,
+                "price": 1280000
+            },
+            {
+                "child_id": 1646183,
+                "id": 1661317,
+                "option1": "140 x 195 x 9cm",
+                "option2": null,
+                "price": 1900000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 1068254,
+        "sku": "3953150324830",
+        "name": "N\u1ec7m B\u00f4ng \u00c9p G\u1ea5p 3 Edena EDN149 (140 x 195 x 9 cm)",
+        "url_key": "nem-bong-ep-gap-3-edena-edn149-140-x-195-x-9-cm-p1068254",
+        "price": 2470000,
+        "list_price": 2470000,
+        "original_price": 2470000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 26086442,
+        "sku": "3164567931881",
+        "name": "N\u1ec7m L\u00f2 Xo Dunlopillo Evita - New",
+        "url_key": "nem-lo-xo-dunlopillo-evita-new-p26086442",
+        "price": 25223000,
+        "list_price": 25223000,
+        "original_price": 25223000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 26086445,
+                "id": 58931606,
+                "option1": "180 x 200 x 28cm",
+                "option2": null,
+                "price": 27395000
+            },
+            {
+                "child_id": 26086443,
+                "id": 58931484,
+                "option1": "160 x 200 x 28cm",
+                "option2": null,
+                "price": 25223000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     }
 ]

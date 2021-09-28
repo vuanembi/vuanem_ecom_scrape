@@ -1,61 +1,5 @@
 [
     {
-        "id": 49724259,
-        "sku": "2006469372458",
-        "name": "N\u1ec7m Foam Cao C\u1ea5p Nest 15cm Ru9 \u00cam \u00c1i, Tho\u00e1ng M\u00e1t, Th\u1ea5m H\u00fat T\u1ed1t ",
-        "url_key": "nem-foam-cao-cap-nest-15cm-ru9-em-ai-thoang-mat-tham-hut-tot-p49724259",
-        "price": 5790000,
-        "list_price": 5790000,
-        "original_price": 5790000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 49724266,
-                "id": 49724267,
-                "option1": "1m2 x 2m x 15cm",
-                "option2": null,
-                "price": 5790000
-            },
-            {
-                "child_id": 49724260,
-                "id": 49724261,
-                "option1": "1m8 x 2m x 15cm",
-                "option2": null,
-                "price": 8690000
-            },
-            {
-                "child_id": 49724262,
-                "id": 49724263,
-                "option1": "1m6 x 2m x 15cm",
-                "option2": null,
-                "price": 7990000
-            },
-            {
-                "child_id": 49724264,
-                "id": 49724265,
-                "option1": "1m4 x 2m x 15cm",
-                "option2": null,
-                "price": 6690000
-            },
-            {
-                "child_id": 58510937,
-                "id": 58510938,
-                "option1": "2m2 x 2m x 15cm",
-                "option2": null,
-                "price": 10990000
-            },
-            {
-                "child_id": 58510935,
-                "id": 58510936,
-                "option1": "2m x 2m x 15cm",
-                "option2": null,
-                "price": 9990000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
         "id": 10368779,
         "sku": "7356529968691",
         "name": "N\u1ec7m Foam Cao C\u1ea5p Ru9 Original 25cm Tr\u1eafng Xanh, 3 L\u1edbp Foam N\u00e2ng \u0110\u1ee1 C\u01a1 Th\u1ec3 T\u1ed1i \u01afu",
@@ -109,20 +53,63 @@
                 "price": 18690000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 71520967,
-        "sku": "9345550062544",
-        "name": "G\u1ed1i \u00d4m Foam Ru9 Chi\u1ec1u D\u00e0i Khoa H\u1ecdc, Thi\u1ebft K\u1ebf Gi\u00fap \u1ea4m B\u1ee5ng D\u1ec5 Ng\u1ee7 - 22cm x 115cm",
-        "url_key": "goi-om-foam-ru9-chieu-dai-khoa-hoc-thiet-ke-giup-am-bung-de-ngu-22cm-x-115cm-p71520967",
-        "price": 1150000,
-        "list_price": 1150000,
-        "original_price": 1150000,
+        "id": 49724259,
+        "sku": "2006469372458",
+        "name": "N\u1ec7m Foam Cao C\u1ea5p Nest 15cm Ru9 \u00cam \u00c1i, Tho\u00e1ng M\u00e1t, Th\u1ea5m H\u00fat T\u1ed1t ",
+        "url_key": "nem-foam-cao-cap-nest-15cm-ru9-em-ai-thoang-mat-tham-hut-tot-p49724259",
+        "price": 5790000,
+        "list_price": 5790000,
+        "original_price": 5790000,
         "discount": 0,
         "discount_rate": 0,
-        "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "configurable_products": [
+            {
+                "child_id": 49724266,
+                "id": 49724267,
+                "option1": "1m2 x 2m x 15cm",
+                "option2": null,
+                "price": 5790000
+            },
+            {
+                "child_id": 49724260,
+                "id": 49724261,
+                "option1": "1m8 x 2m x 15cm",
+                "option2": null,
+                "price": 8690000
+            },
+            {
+                "child_id": 49724262,
+                "id": 49724263,
+                "option1": "1m6 x 2m x 15cm",
+                "option2": null,
+                "price": 7990000
+            },
+            {
+                "child_id": 49724264,
+                "id": 49724265,
+                "option1": "1m4 x 2m x 15cm",
+                "option2": null,
+                "price": 6690000
+            },
+            {
+                "child_id": 58510937,
+                "id": 58510938,
+                "option1": "2m2 x 2m x 15cm",
+                "option2": null,
+                "price": 10990000
+            },
+            {
+                "child_id": 58510935,
+                "id": 58510936,
+                "option1": "2m x 2m x 15cm",
+                "option2": null,
+                "price": 9990000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 76062071,
@@ -178,7 +165,7 @@
                 "price": 6390000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 25246033,
@@ -191,7 +178,7 @@
         "discount": 47500,
         "discount_rate": 5,
         "configurable_products": [],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 113503341,
@@ -247,7 +234,118 @@
                 "price": 969000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 71520967,
+        "sku": "9345550062544",
+        "name": "G\u1ed1i \u00d4m Foam Ru9 Chi\u1ec1u D\u00e0i Khoa H\u1ecdc, Thi\u1ebft K\u1ebf Gi\u00fap \u1ea4m B\u1ee5ng D\u1ec5 Ng\u1ee7 - 22cm x 115cm",
+        "url_key": "goi-om-foam-ru9-chieu-dai-khoa-hoc-thiet-ke-giup-am-bung-de-ngu-22cm-x-115cm-p71520967",
+        "price": 1150000,
+        "list_price": 1150000,
+        "original_price": 1150000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 58849520,
+        "sku": "9812621995938",
+        "name": "B\u1ed9 Ga Tr\u1ea3i Gi\u01b0\u1eddng Ru9 Cotton Percale 100% Cotton T\u1ef1 Nhi\u00ean - Black Oyster ",
+        "url_key": "bo-ga-trai-giuong-ru9-cotton-percale-100-cotton-tu-nhien-black-oyster-p58849520",
+        "price": 1990000,
+        "list_price": 1990000,
+        "original_price": 1990000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 58849525,
+                "id": 58849526,
+                "option1": "Queen (160 x 200 cm)",
+                "option2": null,
+                "price": 2590000
+            },
+            {
+                "child_id": 58849523,
+                "id": 58849524,
+                "option1": "Full (140 x 200 cm)",
+                "option2": null,
+                "price": 1990000
+            },
+            {
+                "child_id": 58849529,
+                "id": 58849530,
+                "option1": "Square King (200 x 200 cm)",
+                "option2": null,
+                "price": 2990000
+            },
+            {
+                "child_id": 58849531,
+                "id": 58849532,
+                "option1": "Super King (220 x 200 cm)",
+                "option2": null,
+                "price": 2990000
+            },
+            {
+                "child_id": 58849527,
+                "id": 58849528,
+                "option1": "King (180 x 200 cm)",
+                "option2": null,
+                "price": 2590000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
+    },
+    {
+        "id": 58853303,
+        "sku": "3337493533959",
+        "name": "B\u1ed9 Ga Tr\u1ea3i Gi\u01b0\u1eddng Ru9 Cotton Sateen 100% Cotton T\u1ef1 Nhi\u00ean - Pearl Blush ",
+        "url_key": "bo-ga-trai-giuong-ru9-cotton-sateen-100-cotton-tu-nhien-pearl-blush-p58853303",
+        "price": 2590000,
+        "list_price": 2590000,
+        "original_price": 2590000,
+        "discount": 0,
+        "discount_rate": 0,
+        "configurable_products": [
+            {
+                "child_id": 58853306,
+                "id": 58853307,
+                "option1": "Full (140 x 200 cm)",
+                "option2": null,
+                "price": 2590000
+            },
+            {
+                "child_id": 58853310,
+                "id": 58853311,
+                "option1": "King (180 x 200 cm)",
+                "option2": null,
+                "price": 3390000
+            },
+            {
+                "child_id": 58853314,
+                "id": 58853315,
+                "option1": "Super King (220 x 200 cm)",
+                "option2": null,
+                "price": 3990000
+            },
+            {
+                "child_id": 58853308,
+                "id": 58853309,
+                "option1": "Queen (160 x 200 cm)",
+                "option2": null,
+                "price": 3390000
+            },
+            {
+                "child_id": 58853312,
+                "id": 58853313,
+                "option1": "Square King (200 x 200 cm)",
+                "option2": null,
+                "price": 3990000
+            }
+        ],
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 109297713,
@@ -303,105 +401,7 @@
                 "price": 2399000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 58849520,
-        "sku": "9812621995938",
-        "name": "B\u1ed9 Ga Tr\u1ea3i Gi\u01b0\u1eddng Ru9 Cotton Percale 100% Cotton T\u1ef1 Nhi\u00ean - Black Oyster ",
-        "url_key": "bo-ga-trai-giuong-ru9-cotton-percale-100-cotton-tu-nhien-black-oyster-p58849520",
-        "price": 1990000,
-        "list_price": 1990000,
-        "original_price": 1990000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 58849525,
-                "id": 58849526,
-                "option1": "Queen (160 x 200 cm)",
-                "option2": null,
-                "price": 2590000
-            },
-            {
-                "child_id": 58849523,
-                "id": 58849524,
-                "option1": "Full (140 x 200 cm)",
-                "option2": null,
-                "price": 1990000
-            },
-            {
-                "child_id": 58849529,
-                "id": 58849530,
-                "option1": "Square King (200 x 200 cm)",
-                "option2": null,
-                "price": 2990000
-            },
-            {
-                "child_id": 58849531,
-                "id": 58849532,
-                "option1": "Super King (220 x 200 cm)",
-                "option2": null,
-                "price": 2990000
-            },
-            {
-                "child_id": 58849527,
-                "id": 58849528,
-                "option1": "King (180 x 200 cm)",
-                "option2": null,
-                "price": 2590000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
-    },
-    {
-        "id": 58852528,
-        "sku": "8646976664642",
-        "name": "B\u1ed9 Ga Tr\u1ea3i Gi\u01b0\u1eddng Ru9 Cotton Sateen 100% Cotton T\u1ef1 Nhi\u00ean - Cooling Spray ",
-        "url_key": "bo-ga-trai-giuong-ru9-cotton-sateen-100-cotton-tu-nhien-cooling-spray-p58852528",
-        "price": 2590000,
-        "list_price": 2590000,
-        "original_price": 2590000,
-        "discount": 0,
-        "discount_rate": 0,
-        "configurable_products": [
-            {
-                "child_id": 58852539,
-                "id": 58852540,
-                "option1": "Super King (220 x 200 cm)",
-                "option2": null,
-                "price": 3990000
-            },
-            {
-                "child_id": 58852533,
-                "id": 58852534,
-                "option1": "Queen (160 x 200 cm)",
-                "option2": null,
-                "price": 3390000
-            },
-            {
-                "child_id": 58852537,
-                "id": 58852538,
-                "option1": "Square King (200 x 200 cm)",
-                "option2": null,
-                "price": 3990000
-            },
-            {
-                "child_id": 58852535,
-                "id": 58852536,
-                "option1": "King (180 x 200 cm)",
-                "option2": null,
-                "price": 3390000
-            },
-            {
-                "child_id": 58852531,
-                "id": 58852532,
-                "option1": "Full (140 x 200 cm)",
-                "option2": null,
-                "price": 2590000
-            }
-        ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 58848833,
@@ -450,13 +450,13 @@
                 "price": 1990000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
-        "id": 58853303,
-        "sku": "3337493533959",
-        "name": "B\u1ed9 Ga Tr\u1ea3i Gi\u01b0\u1eddng Ru9 Cotton Sateen 100% Cotton T\u1ef1 Nhi\u00ean - Pearl Blush ",
-        "url_key": "bo-ga-trai-giuong-ru9-cotton-sateen-100-cotton-tu-nhien-pearl-blush-p58853303",
+        "id": 58852528,
+        "sku": "8646976664642",
+        "name": "B\u1ed9 Ga Tr\u1ea3i Gi\u01b0\u1eddng Ru9 Cotton Sateen 100% Cotton T\u1ef1 Nhi\u00ean - Cooling Spray ",
+        "url_key": "bo-ga-trai-giuong-ru9-cotton-sateen-100-cotton-tu-nhien-cooling-spray-p58852528",
         "price": 2590000,
         "list_price": 2590000,
         "original_price": 2590000,
@@ -464,42 +464,42 @@
         "discount_rate": 0,
         "configurable_products": [
             {
-                "child_id": 58853306,
-                "id": 58853307,
-                "option1": "Full (140 x 200 cm)",
-                "option2": null,
-                "price": 2590000
-            },
-            {
-                "child_id": 58853310,
-                "id": 58853311,
-                "option1": "King (180 x 200 cm)",
-                "option2": null,
-                "price": 3390000
-            },
-            {
-                "child_id": 58853314,
-                "id": 58853315,
+                "child_id": 58852539,
+                "id": 58852540,
                 "option1": "Super King (220 x 200 cm)",
                 "option2": null,
                 "price": 3990000
             },
             {
-                "child_id": 58853308,
-                "id": 58853309,
+                "child_id": 58852533,
+                "id": 58852534,
                 "option1": "Queen (160 x 200 cm)",
                 "option2": null,
                 "price": 3390000
             },
             {
-                "child_id": 58853312,
-                "id": 58853313,
+                "child_id": 58852537,
+                "id": 58852538,
                 "option1": "Square King (200 x 200 cm)",
                 "option2": null,
                 "price": 3990000
+            },
+            {
+                "child_id": 58852535,
+                "id": 58852536,
+                "option1": "King (180 x 200 cm)",
+                "option2": null,
+                "price": 3390000
+            },
+            {
+                "child_id": 58852531,
+                "id": 58852532,
+                "option1": "Full (140 x 200 cm)",
+                "option2": null,
+                "price": 2590000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 58854005,
@@ -548,7 +548,7 @@
                 "price": 3990000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     },
     {
         "id": 58851079,
@@ -597,6 +597,6 @@
                 "price": 1990000
             }
         ],
-        "_batched_at": "2021-09-27T08:52:10"
+        "_batched_at": "2021-09-28T04:10:08"
     }
 ]
