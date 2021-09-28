@@ -8,6 +8,8 @@ authors = ["HM <hieumdd@gmail.com>"]
 python = "~3.9"
 requests = "^2.26.0"
 fake-useragent = "^0.1.11"
+aiohttp = "^3.7.4"
+aiofiles = "^0.7.0"
 
 [tool.poetry.dev-dependencies]
 black = "^21.9b0"
