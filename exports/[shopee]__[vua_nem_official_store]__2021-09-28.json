@@ -40,7 +40,7 @@
                 "price_before_discount": 550000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 10046611036,
@@ -62,7 +62,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 5795781171,
@@ -84,7 +84,7 @@
                 "price_before_discount": 49800000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 12505896749,
@@ -106,7 +106,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8880388503,
@@ -135,7 +135,7 @@
                 "price_before_discount": 20100000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 5588585776,
@@ -185,7 +185,7 @@
                 "price_before_discount": 375000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 2955216984,
@@ -228,7 +228,7 @@
                 "price_before_discount": 419900000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8967948214,
@@ -250,46 +250,46 @@
                 "price_before_discount": 59000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8054712141,
         "name": "N\u1ec7m Cool Gel Memory Foam Amando Casa ch\u1ea5t l\u01b0\u1ee3ng cao c\u00e2n b\u1eb1ng nhi\u1ec7t \u0111\u1ed9 c\u01a1 th\u1ec3 b\u1ea3o h\u00e0nh b\u1edfi Vua N\u1ec7m",
         "shopid": 179124960,
-        "show_discount": 37,
-        "price": 850000000000,
+        "show_discount": 40,
+        "price": 810000000000,
         "price_before_discount": 1350000000000,
-        "price_max": 1975000000000,
+        "price_max": 1881000000000,
         "price_max_before_discount": 2475000000000,
-        "price_min": 850000000000,
+        "price_min": 810000000000,
         "price_min_before_discount": 1350000000000,
         "models": [
             {
                 "itemid": 8054712141,
                 "modelid": 76521440772,
                 "name": "180x200x20cm",
-                "price": 1350000000000,
+                "price": 1295000000000,
                 "price_before_discount": 1850000000000
             },
             {
                 "itemid": 8054712141,
                 "modelid": 76521440773,
                 "name": "200x220x20cm",
-                "price": 1975000000000,
+                "price": 1881000000000,
                 "price_before_discount": 2475000000000
             },
             {
                 "itemid": 8054712141,
                 "modelid": 76521440774,
                 "name": "120x200x20cm",
-                "price": 850000000000,
+                "price": 810000000000,
                 "price_before_discount": 1350000000000
             },
             {
                 "itemid": 8054712141,
                 "modelid": 76521440775,
                 "name": "160x200x20cm",
-                "price": 1225000000000,
+                "price": 1173000000000,
                 "price_before_discount": 1725000000000
             },
             {
@@ -300,29 +300,29 @@
                 "price_before_discount": 1575000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 4792067949,
         "name": "G\u1ed1i Foam Doona Extra Gel Cool 35x64cm n\u00e2ng \u0111\u1ee1 c\u1ed5 vai g\u00e1y, \u00eam \u00e1i m\u1ec1m m\u1ea1i b\u1ea3o h\u00e0nh b\u1edfi Vua N\u1ec7m",
         "shopid": 179124960,
-        "show_discount": 5,
-        "price": 131860000000,
-        "price_before_discount": 138800000000,
-        "price_max": 131860000000,
-        "price_max_before_discount": 138800000000,
-        "price_min": 131860000000,
-        "price_min_before_discount": 138800000000,
+        "show_discount": 0,
+        "price": 138800000000,
+        "price_before_discount": 0,
+        "price_max": 138800000000,
+        "price_max_before_discount": -1,
+        "price_min": 138800000000,
+        "price_min_before_discount": -1,
         "models": [
             {
                 "itemid": 4792067949,
                 "modelid": 55985477733,
                 "name": "Tr\u1eafng,64x35",
-                "price": 131860000000,
-                "price_before_discount": 138800000000
+                "price": 138800000000,
+                "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11012061950,
@@ -344,7 +344,7 @@
                 "price_before_discount": 79000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8167977044,
@@ -366,18 +366,18 @@
                 "price_before_discount": 113000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11233948312,
         "name": "N\u1ec7m b\u00f4ng \u00e9p Goodnight Nova 3 m\u1ea3nh ch\u00ednh h\u00e3ng b\u1ea3o h\u00e0nh b\u1edfi Vua N\u1ec7m",
         "shopid": 179124960,
-        "show_discount": 43,
-        "price": 198000000000,
+        "show_discount": 5,
+        "price": 330600000000,
         "price_before_discount": 348000000000,
-        "price_max": 400000000000,
+        "price_max": 522500000000,
         "price_max_before_discount": 550000000000,
-        "price_min": 198000000000,
+        "price_min": 330600000000,
         "price_min_before_discount": 348000000000,
         "models": [
             {
@@ -391,32 +391,32 @@
                 "itemid": 11233948312,
                 "modelid": 101743317785,
                 "name": "140x200,9cm",
-                "price": 198000000000,
+                "price": 330600000000,
                 "price_before_discount": 348000000000
             },
             {
                 "itemid": 11233948312,
                 "modelid": 101743317786,
                 "name": "160x200,9cm",
-                "price": 236000000000,
+                "price": 366700000000,
                 "price_before_discount": 386000000000
             },
             {
                 "itemid": 11233948312,
                 "modelid": 101743317787,
                 "name": "180x200,9cm",
-                "price": 277000000000,
+                "price": 405650000000,
                 "price_before_discount": 427000000000
             },
             {
                 "itemid": 11233948312,
                 "modelid": 101743317788,
                 "name": "220x200,9cm",
-                "price": 400000000000,
+                "price": 522500000000,
                 "price_before_discount": 550000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11017707458,
@@ -480,7 +480,7 @@
                 "price_before_discount": 550000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 3695318634,
@@ -489,7 +489,7 @@
         "show_discount": 14,
         "price": 610000000000,
         "price_before_discount": 710000000000,
-        "price_max": 1330000000000,
+        "price_max": 1340000000000,
         "price_max_before_discount": 1440000000000,
         "price_min": 610000000000,
         "price_min_before_discount": 710000000000,
@@ -505,7 +505,7 @@
                 "itemid": 3695318634,
                 "modelid": 36556566673,
                 "name": "120x200,10cm",
-                "price": 710000000000,
+                "price": 769500000000,
                 "price_before_discount": 810000000000
             },
             {
@@ -540,11 +540,11 @@
                 "itemid": 3695318634,
                 "modelid": 36556566678,
                 "name": "200x220,10cm",
-                "price": 1330000000000,
+                "price": 1340000000000,
                 "price_before_discount": 1440000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 13510175479,
@@ -566,7 +566,7 @@
                 "price_before_discount": 85000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8690830781,
@@ -609,7 +609,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 3048464721,
@@ -680,7 +680,7 @@
                 "price_before_discount": 1150000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8380104646,
@@ -702,7 +702,7 @@
                 "price_before_discount": 43000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 7992061581,
@@ -724,7 +724,7 @@
                 "price_before_discount": 85000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 10112047985,
@@ -746,7 +746,7 @@
                 "price_before_discount": 85800000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8177418367,
@@ -894,7 +894,7 @@
                 "price_before_discount": 1175000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9958531268,
@@ -937,7 +937,7 @@
                 "price_before_discount": 880000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 4689765981,
@@ -973,29 +973,29 @@
                 "price_before_discount": 540000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 6094989588,
         "name": "G\u1ed1i Cao Su Kim C\u01b0\u01a1ng L\u01b0\u1ee3n S\u00f3ng 44x64cm 100% cao su thi\u00ean nhi\u00ean n\u00e2ng \u0111\u1ee1, b\u1ea3o v\u1ec7 \u0111\u1ed1t s\u1ed1ng c\u1ed5 BH b\u1edfi Vua N\u1ec7m - A",
         "shopid": 179124960,
-        "show_discount": 1,
-        "price": 59400000000,
+        "show_discount": 5,
+        "price": 57000000000,
         "price_before_discount": 60000000000,
-        "price_max": 59400000000,
+        "price_max": 57000000000,
         "price_max_before_discount": 60000000000,
-        "price_min": 59400000000,
+        "price_min": 57000000000,
         "price_min_before_discount": 60000000000,
         "models": [
             {
                 "itemid": 6094989588,
                 "modelid": 26844560654,
                 "name": "",
-                "price": 59400000000,
+                "price": 57000000000,
                 "price_before_discount": 60000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9877999670,
@@ -1038,7 +1038,7 @@
                 "price_before_discount": 69800000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8267905545,
@@ -1060,7 +1060,7 @@
                 "price_before_discount": 94500000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 7895773395,
@@ -1271,7 +1271,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 4594505465,
@@ -1314,7 +1314,7 @@
                 "price_before_discount": 239000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11812044905,
@@ -1350,18 +1350,18 @@
                 "price_before_discount": 57800000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11717944874,
         "name": "N\u1ec7m b\u00f4ng \u00e9p Kim C\u01b0\u01a1ng Acness n\u00e2ng \u0111\u1ee1 c\u1ed9t s\u1ed1ng gi\u1ea3m \u0111au l\u01b0ng b\u1ea3o h\u00e0nh ch\u00ednh h\u00e3ng b\u1edfi Vua N\u1ec7m",
         "shopid": 179124960,
         "show_discount": 0,
-        "price": 300300000000,
+        "price": 236925000000,
         "price_before_discount": 0,
         "price_max": 335887500000,
         "price_max_before_discount": -1,
-        "price_min": 300300000000,
+        "price_min": 236925000000,
         "price_min_before_discount": -1,
         "models": [
             {
@@ -1505,7 +1505,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11117875262,
@@ -1569,7 +1569,7 @@
                 "price_before_discount": 1524800000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11104654020,
@@ -1633,7 +1633,7 @@
                 "price_before_discount": 1020000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11021923810,
@@ -1788,7 +1788,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11017954108,
@@ -1817,7 +1817,7 @@
                 "price_before_discount": 152000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 10719589936,
@@ -1860,7 +1860,7 @@
                 "price_before_discount": 45800000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 10521575455,
@@ -1910,7 +1910,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 10420551656,
@@ -1974,7 +1974,7 @@
                 "price_before_discount": 3893500000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 10118209373,
@@ -1996,7 +1996,7 @@
                 "price_before_discount": 699900000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 10013414219,
@@ -2123,7 +2123,7 @@
                 "price_before_discount": 101000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9977997970,
@@ -2166,32 +2166,32 @@
                 "price_before_discount": 69800000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9954703405,
         "name": "N\u1ec7m foam Aeroflow Standard Nh\u1eadt B\u1ea3n cao c\u1ea5p \u00eam \u00e1i m\u1ec1m m\u1ea1i n\u00e2ng \u0111\u1ee1 t\u1ed1i \u0111a b\u1ea3o h\u00e0nh b\u1edfi Vua N\u1ec7m",
         "shopid": 179124960,
         "show_discount": 23,
-        "price": 667000000000,
+        "price": 667590000000,
         "price_before_discount": 867000000000,
         "price_max": 1238000000000,
         "price_max_before_discount": 1445000000000,
-        "price_min": 667000000000,
+        "price_min": 667590000000,
         "price_min_before_discount": 867000000000,
         "models": [
             {
                 "itemid": 9954703405,
                 "modelid": 75569424209,
                 "name": "160x200,12cm",
-                "price": 838000000000,
+                "price": 840780000000,
                 "price_before_discount": 1038000000000
             },
             {
                 "itemid": 9954703405,
                 "modelid": 75569424210,
                 "name": "180x200,12cm",
-                "price": 940000000000,
+                "price": 934800000000,
                 "price_before_discount": 1140000000000
             },
             {
@@ -2205,23 +2205,23 @@
                 "itemid": 9954703405,
                 "modelid": 75569424212,
                 "name": "120x200,12cm",
-                "price": 667000000000,
+                "price": 667590000000,
                 "price_before_discount": 867000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9877316701,
         "name": "N\u1ec7m l\u00f2 xo Dunlopillo Audrey d\u00e0y 25cm \u0111\u1ed9 \u0111\u00e0n h\u1ed3i cao b\u1ea3o v\u1ec7 c\u1ed9t s\u1ed1ng b\u1ea3o h\u00e0nh b\u1edfi Vua N\u1ec7m",
         "shopid": 179124960,
         "show_discount": 25,
-        "price": 944250000000,
-        "price_before_discount": 1259000000000,
+        "price": 836175000000,
+        "price_before_discount": 1114900000000,
         "price_max": 944250000000,
         "price_max_before_discount": 1259000000000,
-        "price_min": 944250000000,
-        "price_min_before_discount": 1259000000000,
+        "price_min": 836175000000,
+        "price_min_before_discount": 1114900000000,
         "models": [
             {
                 "itemid": 9877316701,
@@ -2287,7 +2287,36 @@
                 "price_before_discount": 1420600000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
+    },
+    {
+        "itemid": 9877003253,
+        "name": "N\u1ec7m Foam Amando Comodo Luxury thi\u1ebft k\u1ebf chuy\u1ec3n \u0111\u1ed9ng ti\u00ean ti\u1ebfn hi\u1ec7n t\u1ea1i \u00eam d\u1ecbu tho\u00e1ng m\u00e1t b\u1ea3o h\u00e0nh b\u1edfi Vua N\u1ec7m",
+        "shopid": 179124960,
+        "show_discount": 50,
+        "price": 752500000000,
+        "price_before_discount": 1505000000000,
+        "price_max": 1266500000000,
+        "price_max_before_discount": 2533000000000,
+        "price_min": 752500000000,
+        "price_min_before_discount": 1505000000000,
+        "models": [
+            {
+                "itemid": 9877003253,
+                "modelid": 56377294605,
+                "name": "120x200",
+                "price": 752500000000,
+                "price_before_discount": 1505000000000
+            },
+            {
+                "itemid": 9877003253,
+                "modelid": 56377294606,
+                "name": "200x220",
+                "price": 1266500000000,
+                "price_before_discount": 2533000000000
+            }
+        ],
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9581090417,
@@ -2337,7 +2366,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9477027995,
@@ -2401,7 +2430,7 @@
                 "price_before_discount": 1152900000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9377022777,
@@ -2465,7 +2494,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9370191448,
@@ -2760,7 +2789,7 @@
                 "price_before_discount": 36000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9283847148,
@@ -2782,18 +2811,18 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9254710627,
         "name": "Combo N\u1ec7m g\u1ed1i Foam Amando Pisa ti\u1ec7n l\u1ee3i v\u1ea3i th\u00f4ng tho\u00e1ng m\u1ec1m m\u1ea1i b\u1ea3o h\u00e0nh b\u1edfi Vua N\u1ec7m",
         "shopid": 179124960,
         "show_discount": 30,
-        "price": 675990000000,
+        "price": 543900000000,
         "price_before_discount": 777000000000,
-        "price_max": 1446900000000,
+        "price_max": 1574100000000,
         "price_max_before_discount": 1670000000000,
-        "price_min": 675990000000,
+        "price_min": 543900000000,
         "price_min_before_discount": 777000000000,
         "models": [
             {
@@ -2807,32 +2836,32 @@
                 "itemid": 9254710627,
                 "modelid": 46522681385,
                 "name": "200x200,20cm",
-                "price": 1446900000000,
+                "price": 1574100000000,
                 "price_before_discount": 1590000000000
             },
             {
                 "itemid": 9254710627,
                 "modelid": 92226882112,
                 "name": "120x200,20cm",
-                "price": 675990000000,
+                "price": 543900000000,
                 "price_before_discount": 777000000000
             },
             {
                 "itemid": 9254710627,
                 "modelid": 92226882113,
                 "name": "160x200,20cm",
-                "price": 928200000000,
+                "price": 714000000000,
                 "price_before_discount": 1020000000000
             },
             {
                 "itemid": 9254710627,
                 "modelid": 92226882114,
                 "name": "180x200,20cm",
-                "price": 1035000000000,
+                "price": 805000000000,
                 "price_before_discount": 1150000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9179976524,
@@ -2854,7 +2883,7 @@
                 "price_before_discount": 50000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8976997587,
@@ -2890,7 +2919,7 @@
                 "price_before_discount": 1350000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8877918949,
@@ -2933,7 +2962,7 @@
                 "price_before_discount": 2069000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8777401412,
@@ -2983,7 +3012,7 @@
                 "price_before_discount": 5189500000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8756054012,
@@ -3033,7 +3062,7 @@
                 "price_before_discount": 1150000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8677307515,
@@ -3118,7 +3147,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8570196547,
@@ -3273,7 +3302,7 @@
                 "price_before_discount": 149000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8477875450,
@@ -3302,7 +3331,7 @@
                 "price_before_discount": 1979000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8377335703,
@@ -3352,7 +3381,7 @@
                 "price_before_discount": 5583000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8377080643,
@@ -3361,8 +3390,8 @@
         "show_discount": 25,
         "price": 553350000000,
         "price_before_discount": 737800000000,
-        "price_max": 612675000000,
-        "price_max_before_discount": 816900000000,
+        "price_max": 735675000000,
+        "price_max_before_discount": 980900000000,
         "price_min": 553350000000,
         "price_min_before_discount": 737800000000,
         "models": [
@@ -3416,7 +3445,7 @@
                 "price_before_discount": 609000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8282715965,
@@ -3767,7 +3796,7 @@
                 "price_before_discount": 75000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8277304831,
@@ -3831,7 +3860,7 @@
                 "price_before_discount": 9156600000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 8277077505,
@@ -3840,7 +3869,7 @@
         "show_discount": 0,
         "price": 1113600000000,
         "price_before_discount": 0,
-        "price_max": 1113600000000,
+        "price_max": 1228050000000,
         "price_max_before_discount": -1,
         "price_min": 1113600000000,
         "price_min_before_discount": -1,
@@ -3895,7 +3924,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 6789160939,
@@ -3952,7 +3981,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 6494508602,
@@ -3974,7 +4003,7 @@
                 "price_before_discount": 595000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 6194351046,
@@ -3983,7 +4012,7 @@
         "show_discount": 0,
         "price": 1732275000000,
         "price_before_discount": 0,
-        "price_max": 1930875000000,
+        "price_max": 2327175000000,
         "price_max_before_discount": -1,
         "price_min": 1732275000000,
         "price_min_before_discount": -1,
@@ -4066,7 +4095,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 5994467560,
@@ -4088,19 +4117,19 @@
                 "price_before_discount": 599900000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 5894298979,
         "name": "N\u1ec7m l\u00f2 xo Dunlopillo Evita c\u00f4ng ngh\u1ec7 ti\u00ean ti\u1ebfn \u0111\u1ea1t chu\u1ea9n qu\u1ed1c t\u1ebf b\u1ea3o h\u00e0nh b\u1edfi Vua N\u1ec7m",
         "shopid": 179124960,
         "show_discount": 25,
-        "price": 2522325000000,
-        "price_before_discount": 3363100000000,
+        "price": 2144700000000,
+        "price_before_discount": 2859600000000,
         "price_max": 3177900000000,
         "price_max_before_discount": 4237200000000,
-        "price_min": 2522325000000,
-        "price_min_before_discount": 3363100000000,
+        "price_min": 2144700000000,
+        "price_min_before_discount": 2859600000000,
         "models": [
             {
                 "itemid": 5894298979,
@@ -4159,7 +4188,7 @@
                 "price_before_discount": 2609100000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 5392067491,
@@ -4181,7 +4210,7 @@
                 "price_before_discount": 119800000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 4794351956,
@@ -4252,7 +4281,7 @@
                 "price_before_discount": 871900000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 4595412472,
@@ -4316,7 +4345,71 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
+    },
+    {
+        "itemid": 3894413924,
+        "name": "N\u1ec7m cao su Dunlopillo World Pure d\u00e0y 20cm c\u1ea3i thi\u1ec7n l\u01b0u th\u00f4ng m\u00e1u b\u1ea3o h\u00e0nh 10 n\u0103m b\u1edfi Vua N\u1ec7m",
+        "shopid": 179124960,
+        "show_discount": 0,
+        "price": 2699250000000,
+        "price_before_discount": 0,
+        "price_max": 2699250000000,
+        "price_max_before_discount": -1,
+        "price_min": 2699250000000,
+        "price_min_before_discount": -1,
+        "models": [
+            {
+                "itemid": 3894413924,
+                "modelid": 76538593796,
+                "name": "120x200,20cm",
+                "price": 2086800000000,
+                "price_before_discount": 0
+            },
+            {
+                "itemid": 3894413924,
+                "modelid": 76538593797,
+                "name": "100x200,20cm",
+                "price": 1809675000000,
+                "price_before_discount": 0
+            },
+            {
+                "itemid": 3894413924,
+                "modelid": 76538593798,
+                "name": "160x200,20cm",
+                "price": 2699250000000,
+                "price_before_discount": 0
+            },
+            {
+                "itemid": 3894413924,
+                "modelid": 76538593799,
+                "name": "200x220,20cm",
+                "price": 3695175000000,
+                "price_before_discount": 0
+            },
+            {
+                "itemid": 3894413924,
+                "modelid": 76538593800,
+                "name": "140x200,20cm",
+                "price": 2342175000000,
+                "price_before_discount": 0
+            },
+            {
+                "itemid": 3894413924,
+                "modelid": 76538593801,
+                "name": "180x200,20cm",
+                "price": 3012600000000,
+                "price_before_discount": 0
+            },
+            {
+                "itemid": 3894413924,
+                "modelid": 76538593802,
+                "name": "200x200,20cm",
+                "price": 3369000000000,
+                "price_before_discount": 0
+            }
+        ],
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 3074938445,
@@ -4345,7 +4438,7 @@
                 "price_before_discount": 545000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 3063530286,
@@ -4367,7 +4460,7 @@
                 "price_before_discount": 96000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 2977819723,
@@ -4452,7 +4545,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 2957493022,
@@ -4461,7 +4554,7 @@
         "show_discount": 10,
         "price": 1414800000000,
         "price_before_discount": 1572000000000,
-        "price_max": 2322000000000,
+        "price_max": 2376000000000,
         "price_max_before_discount": 2580000000000,
         "price_min": 1414800000000,
         "price_min_before_discount": 1572000000000,
@@ -4477,7 +4570,7 @@
                 "itemid": 2957493022,
                 "modelid": 66521624948,
                 "name": "200x200,31cm",
-                "price": 2160000000000,
+                "price": 2376000000000,
                 "price_before_discount": 2400000000000
             },
             {
@@ -4509,7 +4602,7 @@
                 "price_before_discount": 2580000000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9667925391,
@@ -4531,7 +4624,7 @@
                 "price_before_discount": 27500000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 11620567928,
@@ -4574,7 +4667,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 9367955491,
@@ -4596,7 +4689,7 @@
                 "price_before_discount": 0
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     },
     {
         "itemid": 7992055243,
@@ -4618,6 +4711,6 @@
                 "price_before_discount": 499900000000
             }
         ],
-        "_batched_at": "2021-09-28T04:10:08"
+        "_batched_at": "2021-09-28T13:37:58"
     }
 ]
