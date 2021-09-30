@@ -2,8 +2,6 @@ import json
 from datetime import datetime
 import asyncio
 
-import requests
-import aiofiles
 import aiohttp
 
 NOW = datetime.utcnow()
@@ -30,17 +28,24 @@ async def get_tiki_products(session, seller_slug, page=1):
     )
 
 
-async def get_tiki_product_variants(session, id):
+async def get_tiki_product_variant_list(session, id, variant_id=None):
+    params = {
+        "platform": "web",
+    }
+    if variant_id:
+        params["spid"] = variant_id
     async with session.get(
         f"https://tiki.vn/api/v2/products/{id}",
-        params={
-            "platform": "web",
-            "spid": "114976771",
-        },
+        params=params,
         headers=HEADERS,
     ) as r:
         res = await r.json()
-    return {
+    ids = (
+        [config_product["id"] for config_product in res.get("configurable_products")]
+        if res.get("configurable_products", [])
+        else []
+    )
+    data = {
         "id": res["id"],
         "sku": res["sku"],
         "name": res["name"],
@@ -50,26 +55,27 @@ async def get_tiki_product_variants(session, id):
         "original_price": res["original_price"],
         "discount": res["discount"],
         "discount_rate": res["discount_rate"],
-        "configurable_products": [
-            {
-                "child_id": config_product.get("child_id"),
-                "id": config_product["id"],
-                "option1": config_product.get("option1"),
-                "option2": config_product.get("option2"),
-                "price": config_product["price"],
-            }
-            for config_product in res.get("configurable_products")
-        ]
-        if res.get("configurable_products", [])
-        else [],
+        "variant_id": [
+            config_product["id"]
+            for config_product in res["configurable_products"]
+            if config_product["selected"]
+        ][0]
+        if res.get("configurable_products", None)
+        else None,
     }
+    if not variant_id and ids:
+        return [await get_tiki_product_variant_list(session, id, i) for i in ids]
+    elif variant_id:
+        return data
+    else:
+        return [data]
 
 
 async def get_tiki(session, seller_slug):
     products = await get_tiki_products(session, seller_slug)
     product_ids = [i["id"] for i in products]
     tasks = [
-        asyncio.create_task(get_tiki_product_variants(session, id))
+        asyncio.create_task(get_tiki_product_variant_list(session, id))
         for id in product_ids
     ]
     return asyncio.gather(*tasks)
@@ -161,6 +167,13 @@ async def get_shopee(session, seller_slug):
     return asyncio.gather(*tasks)
 
 
+def transform(data, ecom):
+    if ecom == "tiki":
+        return [i for j in data for i in j]
+    else:
+        return data
+
+
 def main():
     add_date_scraped = lambda x: {
         **x,
@@ -191,7 +204,11 @@ def main():
                     f"exports/[{options['ecom']}]__[{options['seller_slug']}]__{NOW.strftime('%Y-%m-%d')}.json",
                     "w",
                 ) as f:
-                    json.dump([add_date_scraped(i) for i in data], f, indent=4)
+                    json.dump(
+                        [add_date_scraped(i) for i in transform(data, options["ecom"])],
+                        f,
+                        indent=4,
+                    )
 
     async def scrape_one(session, seller_slug, ecom="tiki"):
         if ecom == "shopee":
@@ -203,10 +220,10 @@ def main():
     sellers = {
         "tiki": [
             "vua-nem-official-store",
-            "ru9-the-sleep-company",
-            "zinus-official-store",
-            "nem-gia-kho",
-            "dem-ha-noi",
+            # "ru9-the-sleep-company",
+            # "zinus-official-store",
+            # "nem-gia-kho",
+            # "dem-ha-noi",
         ],
         "shopee": [
             "vua_nem_official_store",
